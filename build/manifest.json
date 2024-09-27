@@ -1,0 +1,3467 @@
+{
+  "name": "Tabletop Audio",
+  "description": "Songs imported from www.tabletopaudio.com",
+  "fade": 3000,
+  "folder": null,
+  "mode": 0,
+  "playing": false,
+  "sorting": "a",
+  "sounds": [
+    {
+      "name": "1920s Speakeasy",
+      "description": "The joint is jumping and the gin is flowing so gussy yourself up and give the heavy at the door your password",
+      "path": "sounds/81_1920s_Speakeasy.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "1940's Office",
+      "description": "\"It ain't ritzy, and the pay is peanuts, but it's a decent place to get some shut-eye 'til knock-off time\"",
+      "path": "sounds/68_1940s_Office.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "1940s Boardwalk",
+      "description": "Take a stroll through the colorful world of 1940s seaside Americana",
+      "path": "sounds/190_1940s_Boardwalk.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "60s Computer Lab",
+      "description": "Whirring machines in underground bunkers",
+      "path": "sounds/226_60s_Computer_Lab.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "747 Interior",
+      "description": "The timeless sound of a 747 cabin in flight",
+      "path": "sounds/109_747_Interior.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "A New Beginning",
+      "description": "A new dawn breaks, and new adventures begin",
+      "path": "sounds/277_A_New_Beginning.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Abandoned Chapel",
+      "description": "Nature has burst through the walls",
+      "path": "sounds/335_Abandoned_Chapel.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Abandoned Fair",
+      "description": "Twisting arcs of rusted steel rise, wavelike, over a ruined landscape",
+      "path": "sounds/77_Abandoned_Fair.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Abandoned Windmill",
+      "description": "Lying fallow for years on a blustery hilltop, the sails still spin as a weary reminder",
+      "path": "sounds/180_Abandoned_Windmill.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Abyssal Gaze",
+      "description": "The blackness of space, the silence of the open sea, the depths of a cave",
+      "path": "sounds/6_Abyssal_Gaze.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Adventure Begins",
+      "description": "Every story has a beginning",
+      "path": "sounds/356_Adventure_Begins.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Adventure Supply",
+      "description": "Everything you need for your next adventure is sold here",
+      "path": "sounds/338_Adventure_Supply.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Aftermath",
+      "description": "Humanity always finds a way",
+      "path": "sounds/306_Aftermath.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Alchemist's Lab",
+      "description": "Through the haze of bubbling flasks, cages of animals and reams of parchment, a hooded figure bends low over a table muttering strange words",
+      "path": "sounds/76_Alchemists_Lab.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Alien Machine Shop",
+      "description": "You want the latest modifications? You want to squeeze a few more years out of those ancient matter displacers? It's gonna cost you",
+      "path": "sounds/15_Alien_Machine_Shop.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Alien Night Club",
+      "description": "It's hot, crowded, and swarming with species from every corner of the galaxy",
+      "path": "sounds/17_Alien_Night_Club.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Alien Reactor",
+      "description": "This throbbing mass of bio-electrical energy powers everything",
+      "path": "sounds/248_Alien_Reactor.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "All Hallows' Eve",
+      "description": "\"When the sun sets, who doth not look for night?\" Halloween 2020",
+      "path": "sounds/230_All_Hallows_Eve.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ancient Artifact",
+      "description": "A mysterious object, dormant for centuries, begins to thrum with energy",
+      "path": "sounds/289_Ancient_Artifact.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ancient Beacon",
+      "description": "Ten thousand years have gone by without a response",
+      "path": "sounds/361_Ancient_Beacon.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Antiquarian Study",
+      "description": "A cluttered, book-filled office in a creaky old house",
+      "path": "sounds/115_Antiquarian_Study.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Arabesque",
+      "description": "Adrift on the sands of time, nomadic warriors celebrate a life of conquest and honor",
+      "path": "sounds/95_Arabesque.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Arcane Athenaeum",
+      "description": "A mystical library in which everything is in motion",
+      "path": "sounds/333_Arcane_Athenaeum.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Arcane Clockworks",
+      "description": "A beautifully chaotic, and frenzied environment for work, or play",
+      "path": "sounds/273_Arcane_Clockworks.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Artist's Garret",
+      "description": "In a tiny attic room, rain pattering against the window, fire in the grate, pen in hand",
+      "path": "sounds/154_Artists_Garret.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Astral Plane",
+      "description": "The realm of thought, memory and psychic energy",
+      "path": "sounds/113_Astral_Plane.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Asylum",
+      "description": "You don't belong here",
+      "path": "sounds/67_Asylum.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Awakenings",
+      "description": "**Boot sequence",
+      "path": "sounds/370_Awakenings.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Banshee's Lair",
+      "description": "A strange old crone lives alone in the forest - waiting",
+      "path": "sounds/383_Banshees_Lair.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Barovian Castle",
+      "description": "For a thousand years the castle has towered over the surrounding villages",
+      "path": "sounds/148_Barovian_Castle.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Barovian Village",
+      "description": "Midnight",
+      "path": "sounds/188_Barovian_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Barren Wastes",
+      "description": "Desolate, dessicated and dire",
+      "path": "sounds/176_Barren_Wastes.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Base Assault",
+      "description": "A ground assault on a heavily fortified position",
+      "path": "sounds/264_Base_Assault.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Battle Requiem",
+      "description": "\"War does not determine who is right - only who is left",
+      "path": "sounds/328_Battle_Requiem.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Battle of the Amazons",
+      "description": "A fierce tribe of warrior women feared for their prowess in battle",
+      "path": "sounds/197_Battle_of_the_Amazons.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Before the Storm",
+      "description": "Sharpen those swords, check the perimeter defences and pray to whatever gods you hold dear",
+      "path": "sounds/9_Before_The_Storm.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Beggar's Rest",
+      "description": "All great cities have a seedy side",
+      "path": "sounds/341_Beggars_Rest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Biodome",
+      "description": "A controlled, self-sufficient eco-system",
+      "path": "sounds/207_Biodome.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Black Rider",
+      "description": "Roaming the world on horseback, in search of the darkest powers",
+      "path": "sounds/352_Black_Rider.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Blacksmith Shoppe",
+      "description": "A blacksmith's shoppe was crucial to the life of a village",
+      "path": "sounds/80_Blacksmith_Shoppe.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Blastfire Bog",
+      "description": "",
+      "path": "sounds/286_Blastfire_Bog.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Bleakwater Docks",
+      "description": "This turn-of-the-century, New England fishing village has a dark secret",
+      "path": "sounds/292_Bleakwater_Docks.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Blighted Farm",
+      "description": "Something has befouled your once productive farm",
+      "path": "sounds/279_Blighted_Farm.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Blighted Forest",
+      "description": "An unnatural rot is spreading through the trees",
+      "path": "sounds/258_Blighted_Forest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Bloodgate",
+      "description": "A dimensional portal tended to by dark wizards",
+      "path": "sounds/309_Bloodgate.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Brood Mother",
+      "description": "Ten thousand hatchlings swarm around the matriarch",
+      "path": "sounds/405_Brood_Mother.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Bubbling Pools",
+      "description": "The stench of life fills the air",
+      "path": "sounds/2_Bubbling_Pools.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Bug Hunt",
+      "description": "\"Is this going to be a standup fight sir, or just another bug hunt?\" -Lt",
+      "path": "sounds/427_Bug_Hunt.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Burn Maneuver",
+      "description": "An interstellar vessel prepares for braking",
+      "path": "sounds/300_Burn_Maneuver.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Burning Village",
+      "description": "\"It was like this when we got here, honest!\"",
+      "path": "sounds/213_Burning_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Busy Space Port",
+      "description": "The gleaming heart of any worthwhile planet",
+      "path": "sounds/16_Busy_Space_Port.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Candledeep",
+      "description": "A massive library inside a fortress",
+      "path": "sounds/251_Candledeep.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Car Chase!",
+      "description": "Big engines, big funk, big hair",
+      "path": "sounds/127_Car_Chase_a.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Carnival",
+      "description": "It's the summer of an indiscriminate year",
+      "path": "sounds/108_Carnival.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Carriage Journey",
+      "description": "A long, rainy journey in a horse drawn carriage",
+      "path": "sounds/134_Carriage_Journey.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Castle Jail",
+      "description": "A dank, horrible cell in which to ponder your life's choices",
+      "path": "sounds/172_Castle_Jail.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Castle Kitchen",
+      "description": "A massive, bustling kitchen was often the center of activity in a medieval castle",
+      "path": "sounds/214_Castle_Kitchen.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Catacombs",
+      "description": "Dimly lit and twisting",
+      "path": "sounds/37_Catacombs.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cathedral",
+      "description": "Cavernous, cold and quiet",
+      "path": "sounds/46_Cathedral.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cave of Time",
+      "description": "Deep underground an ancient cavern yawns before you and welcomes you, it's first visitors in a thousand years",
+      "path": "sounds/13_Cave_of_Time.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cavern of Lost Souls",
+      "description": "A yawning, supulchral chamber filled with the departed spirits of fallen warriors",
+      "path": "sounds/99_Cavern_of_Lost_Souls.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cistern",
+      "description": "A Castle's cistern was a functional necessity, but it could also be beautiful and mysterious",
+      "path": "sounds/164_Cistern.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "City Under Siege",
+      "description": "Pinned down",
+      "path": "sounds/97_City_Under_Siege.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "City and the City",
+      "description": "Where else can you get a roll of toilet paper, a falafel and a bootleg DVD at 3am?",
+      "path": "sounds/32_City_and_the_City.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Clash of Kings",
+      "description": "Two great armies lumber toward each other like centipedes of metal, flesh and bone",
+      "path": "sounds/34_Clash_of_Kings.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Closing Time",
+      "description": "Last call, before you make the winding walk home in Dark City",
+      "path": "sounds/295_Closing_Time.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Collegium Magica",
+      "description": "Shelves brim with books and scrolls of ancient knowledge",
+      "path": "sounds/413_Collegium_Magica.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Colosseum",
+      "description": "Equal parts blood sport, theater and ritual murder",
+      "path": "sounds/57_Colosseum.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cotton Club",
+      "description": "Harlem, 1920s",
+      "path": "sounds/145_Cotton_Club_CLEAN.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Counting House",
+      "description": "A sturdy, and gleaming center of commerce in the middle of the city",
+      "path": "sounds/420_Counting_House.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Country Village",
+      "description": "A charming, quiet little village that welcomes you no matter what",
+      "path": "sounds/182_Country_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Country Workshop",
+      "description": "A place to potter about, fixing things that want fixing",
+      "path": "sounds/257_Country_Workshop.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Court of the Count",
+      "description": "Your strangely alluring host beckons you to join him in his private study",
+      "path": "sounds/267_Court_of_the_Count.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Covert Ops",
+      "description": "A dark and gritty world of espionage",
+      "path": "sounds/350_Covert_Ops.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Crossing the Styx",
+      "description": "The fee for ferrying the dead is a single coin, placed in the mouth",
+      "path": "sounds/196_Crossing_the_Styx.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Crossroads",
+      "description": "A dust filled, diesel tinged intersection of modernity and the past",
+      "path": "sounds/117_Crossroads.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cry Havoc",
+      "description": "\"Cry Havoc and let slip the dogs of war\" - W",
+      "path": "sounds/171_Cry_Havoc.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cultist's Cavern",
+      "description": "A Faceless organization gathers to orchestrate events, and re-shape the world",
+      "path": "sounds/320_Cultists_Cavern.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cutpurse Pursuit",
+      "description": "A sharp-eyed scamp wanders a medieval city's back alleys",
+      "path": "sounds/294_Cutpurse_Pursuit.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cyberpunk Bar",
+      "description": "A seedy place on the outskirts of the city",
+      "path": "sounds/181_Cyberpunk_Bar.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Cyberpunk City",
+      "description": "The true melting pot",
+      "path": "sounds/179_Cyberpunk_City.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dark Angel",
+      "description": "A dark homage to the 90s",
+      "path": "sounds/162_Dark_Angel.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dark City",
+      "description": "A slow burn action / suspense soundtrack for dark modern settings",
+      "path": "sounds/86_Dark_City.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dark Continent",
+      "description": "In another timeline, in another universe, it was the ancient city-states of Africa which eclipsed Rome as a beacon of civilization, culture",
+      "path": "sounds/20_Dark_Continent_aa.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dark Future",
+      "description": "In a not too distant future, dense enclaves of humans eke out a living amid towers of twisting metal, glass and neon",
+      "path": "sounds/140_Dark_Future.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dark Matter",
+      "description": "The sound of the cosmos, or an alternate dimension",
+      "path": "sounds/135_Dark_Matter.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dark and Stormy",
+      "description": "\"It was a dark and stormy night, the rain fell in torrents -- except at occasional intervals when it was checked by a violent gust of wind",
+      "path": "sounds/60_Dark_and_Stormy.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Deep Space EVA",
+      "description": "The deal was simple: 4 years working on a deep space mining operation and you could return to earth a free man",
+      "path": "sounds/25_Deep_Space_EVA.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Defiled Temple",
+      "description": "Remnants of a secret religious sect lie in ruin",
+      "path": "sounds/236_Defiled_Temple.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Demon Army",
+      "description": "Beyond the gates of hell, the horde prepares for battle",
+      "path": "sounds/394_Demon_Army.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Den of Iniquity",
+      "description": "A seedier tavern on the other side of town",
+      "path": "sounds/372_Den_of_Iniquity.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Derelict Freighter",
+      "description": "The listing hulk of a derelict space craft makes a tempting salvage target",
+      "path": "sounds/21_Derelict_Freighter.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Descent",
+      "description": "Grab that 50 feet of rope",
+      "path": "sounds/378_Descent.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Desert Bazaar",
+      "description": "Everything about this desert planet is familiar, but different at the same time",
+      "path": "sounds/5_Desert_Bazaar.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Desert Devotional",
+      "description": "This ancient ritual often goes on for weeks",
+      "path": "sounds/390_Desert_Devotional.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Desert Planet Souk",
+      "description": "A sprawling, sand-swept bazaar of junk, droids, and everything between",
+      "path": "sounds/254_Desert_Planet_Souk.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Desert Temple",
+      "description": "As much a fortress as it is a place of devotion",
+      "path": "sounds/329_Desert_Temple.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Desert Winds",
+      "description": "With little warning, the serenity of the desert is transformed into a maelstrom of biting sand and vicious wind",
+      "path": "sounds/138_Desert_Winds.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dinotopia",
+      "description": "Across space and time, a verdant world has evolved without mankind",
+      "path": "sounds/59_Dinotopia.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Disembodied Spirits",
+      "description": "The night is alive with a thousand tiny voices",
+      "path": "sounds/12_Disembodied_Spirits.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Distilled: Backwoods",
+      "description": "",
+      "path": "sounds/323_Distilled_Backwoods.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Distilled: Cooperage",
+      "description": "",
+      "path": "sounds/322_Distilled_Cooperage.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Distilled: Highlands",
+      "description": "",
+      "path": "sounds/324_Distilled_Highlands.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Distilled: Tranquility",
+      "description": "",
+      "path": "sounds/326_Distilled_Tranquility.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Distilled: Tropical",
+      "description": "",
+      "path": "sounds/327_Distilled_Tropical.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Distilled: Warehouse",
+      "description": "",
+      "path": "sounds/325_Distilled_Warehouse.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Docking Bay",
+      "description": "War is coming",
+      "path": "sounds/387_Docking_Bay.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Docking Procedure",
+      "description": "A veteran freighter captain coerces her ancient ship into port",
+      "path": "sounds/409_Docking_Procedure.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Docks District",
+      "description": "The person you're supposed to meet is always somewhere in the docks district",
+      "path": "sounds/75_Docks_District.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dome City Center",
+      "description": "Amid the bustle of commerce, life under the dome runs smoothly",
+      "path": "sounds/43_Dome_City_Center.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Down by the Sea",
+      "description": "Vast expanses of sand, hypnotic surf and the cries of gulls on the wing",
+      "path": "sounds/36_Down_by_the_Sea.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dragon Rider",
+      "description": "Astride a dragon, the wind and the skies beckon",
+      "path": "sounds/315_Dragon_Rider.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Drowned Sailors",
+      "description": "What unnatural forces have imbued these sailors with a foul mimicry of life?",
+      "path": "sounds/331_Drowned_Sailors.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Druid Hilltop",
+      "description": "High on a hill, amidst a circle of ancient stones, hooded druids peform a dark ritual",
+      "path": "sounds/200_Druid_Hilltop.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dungeon Collapse",
+      "description": "You probably shouldn't have picked up that ancient idol",
+      "path": "sounds/343_Dungeon_Collapse.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dungeon I",
+      "description": "You and your party creep along the twisting, torch-lit hallways of the abandoned mine",
+      "path": "sounds/65_Dungeon_I.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dungeon II: Mechanical",
+      "description": "Deep in the heart of the mountain, ancient machines groan and clank with deadly precision",
+      "path": "sounds/90_Dungeon_II_Mechanical.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dusk of the Dryad",
+      "description": "Walk the forest gently, lest you upset the dryad",
+      "path": "sounds/313_Dusk_of_the_Dryad.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dust to Dust",
+      "description": "Sometimes the only sure thing is the end",
+      "path": "sounds/8_New_Dust_to_Dust.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dwarven City",
+      "description": "A towering, immense city, hewn from solid rock, where dwarves shape stone and iron into soaring monuments, and mighty weapons",
+      "path": "sounds/114_Dwarven_City.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Dying World",
+      "description": "The final days of a once vibrant planet",
+      "path": "sounds/191_Dying_World.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Egg Chamber",
+      "description": "A few of these translucent pods are starting to quiver",
+      "path": "sounds/358_Egg_Chamber.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Elegant Dinner Party",
+      "description": "The clothing and decorum of these elite gatherings often mask the undertones of intrigue and distrust",
+      "path": "sounds/143_Elegant_Dinner_Party.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Elven Glade",
+      "description": "Shrouded from human sight, elves of the forest have congregated here for centuries",
+      "path": "sounds/91_Elven_Glade.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Elven Procession",
+      "description": "A secret elf ritual that few mortals have ever witnessed",
+      "path": "sounds/347_Elven_Procession.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Endgame",
+      "description": "Big, brash, pulpy",
+      "path": "sounds/187_Endgame.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Endless Voyage",
+      "description": "Voyager is the first human-made object to enter interstellar space, traveling \"further than anyone, or anything in history",
+      "path": "sounds/126_Endless_Voyage.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Escape from Shadow",
+      "description": "The road is long, and frought with peril",
+      "path": "sounds/281_Escape_from_Shadow.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ethereal Plane",
+      "description": "A radiant ocean spreads itself before you as winds of color and light whirl above",
+      "path": "sounds/112_Ethereal_Plane.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Everdeep",
+      "description": "A vast underwater city, hidden for millennia",
+      "path": "sounds/288_Everdeep.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Existential Dread",
+      "description": "It starts as a tickle at the base of the ganglia, and spreads, slowly, into your consciousness",
+      "path": "sounds/125_Existential_Dread.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Far Above the World",
+      "description": "\"Here am I, floating round my tin can\"",
+      "path": "sounds/33_Far_Above_the_World.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Farmyard",
+      "description": "A small plot of land, well tended",
+      "path": "sounds/278_Farmyard.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Feast of Crispian",
+      "description": "Soldiers gather in the great hall for a feast before battle",
+      "path": "sounds/401_Feast_of_Crispian.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Field of Heroes",
+      "description": "On the field of battle, heroes are born",
+      "path": "sounds/157_Field_of_Heroes.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Fire Dance",
+      "description": "\"Let's all go to the fire dances\" - Killing Joke",
+      "path": "sounds/430_Fire_Dance.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Fishing Village",
+      "description": "A busy little village on the southern shore of somewhere",
+      "path": "sounds/167_Fishing_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Floating Ice Castle",
+      "description": "Kept aloft by an ancient spell, this gleaming fortress served as protection against an enemy no one remembers",
+      "path": "sounds/146_Floating_Ice_Castle.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Floating Market",
+      "description": "A misty morning on the canals",
+      "path": "sounds/302_Floating_Market.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Fog of War",
+      "description": "A small band of warriors prepares for battle",
+      "path": "sounds/304_Fog_of_War.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Forbidden Galaxy!",
+      "description": "Hurtle through the cosmos! Explore unknown worlds! Face fearsome foes from beyond! Set ray-guns to ADVENTURE!",
+      "path": "sounds/24_Forbidden_Galaxy.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Forest: Day",
+      "description": "A breezy, dense, daytime forest setting for adventure or relaxation",
+      "path": "sounds/161_Forest_Day.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Forest: Night",
+      "description": "Gentle breezes wafting through the trees overhead, the sounds of the night spill forth like jewels",
+      "path": "sounds/69_Forest_Night.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Forge of Fury",
+      "description": "Dwarven metalwork takes focus, and dedication",
+      "path": "sounds/276_Forge_of_Fury.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Forgotten Forest",
+      "description": "A nexus between realms, these woods are brimming with magical energy",
+      "path": "sounds/410_Forgotten_Forest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Frontier Town",
+      "description": "Life in a Western Town",
+      "path": "sounds/424_Frontier_Town.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Frozen Wastes",
+      "description": "Visibility and temperatures plummeting by the second, your only thought is survival",
+      "path": "sounds/31_Frozen_Wastes.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Gateway to Hell",
+      "description": "A foul, smoldering pit, reeking of brimstone and disappointment",
+      "path": "sounds/298_Gateway_to_Hell.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Generation Ship",
+      "description": "The last survivors of a dying world continue their 500-year journey to a new home",
+      "path": "sounds/312_Generation_Ship.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ghost Ship",
+      "description": "Adrift on the seas, what has become of its crew?",
+      "path": "sounds/422_Ghost_Ship.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ghost Town",
+      "description": "The last time you visited, it was full of people",
+      "path": "sounds/208_Ghost_Town.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ghosts of Appalachia",
+      "description": "A derelict shack in the woods may have a past of its own",
+      "path": "sounds/368_Ghosts_of_Appalachia.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Goblin Ambush",
+      "description": "Goblins are always trying to take stuff without paying",
+      "path": "sounds/316_Goblin_Ambush.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Goblin's Cave",
+      "description": "Journey up the winding path, follow the stream into the mouth of the cavern",
+      "path": "sounds/49_Goblin's_Cave.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Grand Theater",
+      "description": "\"The play's the thing",
+      "path": "sounds/259_Grand_Theater.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Graveyard",
+      "description": "The crooked headstones have been overgrown with vines and all manner of creatures commune in the darkness",
+      "path": "sounds/147_Graveyard.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Gravity",
+      "description": "In space, things can go wrong very quickly",
+      "path": "sounds/185_Gravity.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Halfling Festival",
+      "description": "Nobody parties like halflings",
+      "path": "sounds/133_Halfling_Festival.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Halfling Lodge",
+      "description": "A cozy fire, a mug of ale, and a long pipe",
+      "path": "sounds/351_Halfling_Lodge.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Halfling Sneak",
+      "description": "You couldn't resist that shiny orb, could you?",
+      "path": "sounds/381_Halfling_Sneak.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Hall of Angels",
+      "description": "Angelic statues turn to observe - but only when you're not looking",
+      "path": "sounds/374_Hall_of_Angels.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Harpies' Nest",
+      "description": "A clutch of eggs in a cliffside nest, jealously guarded by fearsome winged creatures",
+      "path": "sounds/334_Harpies_Nest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Haunted",
+      "description": "The soundtrack to a place you really shouldn't be",
+      "path": "sounds/186_Haunted.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Haunted Ramparts",
+      "description": "\"I am thy father's spirit, Doom'd for a certain term to walk the night, And for the day confined to fast in fires\" - W",
+      "path": "sounds/83_Haunted_Ramparts.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Haven",
+      "description": "A safe quiet place to regroup for the next battle",
+      "path": "sounds/201_Haven.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Heart: Absolution",
+      "description": "An Official track from Heart: The City Beneath RPG",
+      "path": "sounds/205_Heart_Absolution.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Heart: Briar",
+      "description": "An Official track from Heart: The City Beneath RPG",
+      "path": "sounds/203_Heart_Briar.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Heart: Drowned",
+      "description": "An Official track from Heart: The City Beneath RPG",
+      "path": "sounds/202_Heart_Drowned.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Heart: High Rise",
+      "description": "An Official track from Heart: The City Beneath RPG",
+      "path": "sounds/206_Heart_High_Rise.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Heart: Meat Corridor",
+      "description": "An Official track from Heart: The City Beneath RPG",
+      "path": "sounds/204_Heart_Meat_Corridor.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Hellhound Alley",
+      "description": "Yond hounds have a lean and hungry look",
+      "path": "sounds/393_Hellhound_Alley.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Hermit Hut",
+      "description": "An old hermit lives a quiet life of routine, alone in an isolated stone hut",
+      "path": "sounds/141_Hermit_Hut.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Hidden Passage",
+      "description": "A long rumored path has been found",
+      "path": "sounds/419_Hidden_Passage.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Hidden Valley",
+      "description": "After an arduous journey, the vista before you is a welcome sight",
+      "path": "sounds/305_Hidden_Valley.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "High Rannoc Village",
+      "description": "",
+      "path": "sounds/285_High_Rannoc_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "High Seas Pursuit",
+      "description": "The rigging groans under a full press of sail",
+      "path": "sounds/345_High_Seas_Pursuit.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Highway",
+      "description": "It's nighttime, you're walking on the side of a highway and you feel like you're in a David Lynch film",
+      "path": "sounds/101_Highway.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Homecoming",
+      "description": "A city welcomes its heroes upon their return",
+      "path": "sounds/397_Homecoming.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Hotel Noir",
+      "description": "An intriguing crowd has gathered - in black and white",
+      "path": "sounds/431_Hotel_Noir.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "House on the Hill",
+      "description": "You've heard the stories all your life",
+      "path": "sounds/18_House_on_the_Hill.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Hydroponics Bay",
+      "description": "A place to grow food and cultivate alien botany aboard a starship",
+      "path": "sounds/355_Hydroponics_Bay.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ice Cavern",
+      "description": "Soaring vaults of ice echo and groan, amplifying the freezing wind and hollow noises within",
+      "path": "sounds/55_Ice_Cavern.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ice Dragon",
+      "description": "Ice dragons are hard to spot in winter, so it's a good thing they like to announce their arrival",
+      "path": "sounds/256_Ice_Dragon.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ice Throne",
+      "description": "A frozen chamber from which to rule with an icy heart",
+      "path": "sounds/178_Ice_Throne.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Icebound Town",
+      "description": "One of a series of brutally cold northern towns",
+      "path": "sounds/231_Icebound_Town.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Imperial Pursuit",
+      "description": "Imperial forces are closing in",
+      "path": "sounds/429_Imperial_Pursuit.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "In the Shadows",
+      "description": "This seemed like a pretty good place to hide, but now, you're not so sure",
+      "path": "sounds/10_In_The_Shadows.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Industrial Shipyard",
+      "description": "Massive derricks heave containers from cargo ships overhead, while all manner of human activity occurs down below",
+      "path": "sounds/63_Industrial_Shipyard.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Infernal Machine",
+      "description": "A massive, noisy, beast of a thing",
+      "path": "sounds/373_Infernal_Machine.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Infiltration",
+      "description": "Stay quiet, stay low, stay alive",
+      "path": "sounds/385_Infiltration.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Interrogation Room",
+      "description": "Whether you're police or suspect, this room is tense",
+      "path": "sounds/229_Interrogation_Room.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Into the Deep",
+      "description": "If the darkness, pressure and isolation don't get you, the shadows in the trench just might",
+      "path": "sounds/38_Into_the_Deep.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Investigator's Office",
+      "description": "Boston, 1919",
+      "path": "sounds/291_Investigators_Office.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Invisible Mountain",
+      "description": "Enshrouded by clouds, a hidden world guards its secrets closely",
+      "path": "sounds/321_Invisible_Mountain.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Jungle Bunker",
+      "description": "\"There's only a few guards, this shouldn't be too much trouble\" - H",
+      "path": "sounds/415_Jungle_Bunker.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Jungle Ruins",
+      "description": "Deep in the jungle, a hidden city, buried for centuries, is revealed",
+      "path": "sounds/243_Jungle_Ruins.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Jungle Shaman",
+      "description": "Between dense jungle, and the ocean, a Shaman calls forth ancestral spirits",
+      "path": "sounds/274_Jungle_Shaman.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Kaltoran Craft FE",
+      "description": "",
+      "path": "sounds/29_Kaltoran_Craft_FE.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lair of the Wyrm",
+      "description": "A large, wingless dragon is protecting something valuable",
+      "path": "sounds/432_Lair_of_the_Wyrm.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lakeside Camp",
+      "description": "A quiet spot, off the beaten track",
+      "path": "sounds/149_Lakeside_Camp.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Launch Day",
+      "description": "A community gathers to watch a historic launch",
+      "path": "sounds/395_Launch_Day.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lively Cafe",
+      "description": "A cornerstone of 21st century culture, the humble coffee shop",
+      "path": "sounds/88_Lively_Cafe.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lonesome West",
+      "description": "Brooding skies, ominous horizons",
+      "path": "sounds/107_Lonesome_West.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Long Rest",
+      "description": "It's been a day",
+      "path": "sounds/382_Long_Rest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Loop Tales",
+      "description": "The sounds of Scandinavian, suburban futurism",
+      "path": "sounds/150_Loop_Tales.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lord of Bones",
+      "description": "Don't call him Mr",
+      "path": "sounds/388_Lord_of_Bones.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lorekeeper Grove",
+      "description": "Nature must be protected",
+      "path": "sounds/275_Lorekeeper_Grove.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Los Vangeles 3030",
+      "description": "Towering spires of glass, neon and steel - dense air traffic and a constant rain that never cleanses",
+      "path": "sounds/30_Los_Vangeles_3030.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lost Mine",
+      "description": "Hidden for years and only recently discovered, your party must go on a search",
+      "path": "sounds/98_Lost_Mine.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lucha Libre!",
+      "description": "Lucha Libre, the masked, high flying spectacle, is embedded deep in the very soul of Mexican culture",
+      "path": "sounds/84_Lucha_Libre.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lunar Outpost",
+      "description": "There has been no contact with the team at Outpost 1138 for weeks",
+      "path": "sounds/106_Lunar_Outpost.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Lush World",
+      "description": "Verdant, colorific, surreal",
+      "path": "sounds/234_Lush_World.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Magic Shoppe",
+      "description": "A small shop, at the end of a quiet, cobblestone street",
+      "path": "sounds/246_Magic_Shoppe.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Magical Flora",
+      "description": "A biome bursting with beautiful and mysterious plant life",
+      "path": "sounds/423_Magical_Flora.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mainframe",
+      "description": "The digital plane contains echoes of humanity",
+      "path": "sounds/417_Mainframe.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mansion: Night",
+      "description": "Secrets are hidden in the great old house",
+      "path": "sounds/224_Mansion_Night.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "March of the Faithful",
+      "description": "The devoted stream into the distance",
+      "path": "sounds/3_The_March_of_the_Faithful.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mech War",
+      "description": "Large mechanized armies trying to pulverize each other into scrap",
+      "path": "sounds/232_Mech_War.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Medieval Banquet",
+      "description": "A grand feast in the great hall",
+      "path": "sounds/336_Medieval_Banquet.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Medieval Battle",
+      "description": "Two armies meet on the battlefield",
+      "path": "sounds/79_Medieval_Battle.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Medieval Fair",
+      "description": "An important economic event in medieval towns",
+      "path": "sounds/163_Medieval_Fair.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Medieval Library",
+      "description": "Bearded men hunch over scrolls and books, quills scratching quietly",
+      "path": "sounds/73_Medieval_Library.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Medieval Market",
+      "description": "A picture-perfect town on a beautiful spring day",
+      "path": "sounds/389_Medieval_Market.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Medieval Town",
+      "description": "Life inside the walls, where commerce, struggle and celebration mingle with honor, chaos and crime",
+      "path": "sounds/56_Medieval_Town.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mega City Slums",
+      "description": "When cities are the size of continents, not everyone lives the good life",
+      "path": "sounds/330_Mega_City_Slums.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Metropolis Fanfare",
+      "description": "A Heroic introduction to the city of tomorrow",
+      "path": "sounds/151_Metropolis_Fanfare.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Middle Earth: Dawn",
+      "description": "When not being overrun by filthy orcses, Middle Earth can be a beautiful place",
+      "path": "sounds/62_Middle_Earth_Dawn.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mill Town",
+      "description": "A busy little mill town on the banks of a river",
+      "path": "sounds/137_Mill_Town_a.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mind Flayer Chamber",
+      "description": "Deep in the twisting maze of passages lies the elder brain, waiting, throbbing",
+      "path": "sounds/238_Mind_Flayer_Chamber.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Moisture Farm",
+      "description": "On a desolate planet, massive machines extract water from the air",
+      "path": "sounds/310_Moisture_Farm.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Monster Attack!",
+      "description": "Panic! Offshore nuclear testing has resulted in  a wave of monster attacks throughout the city! Run for your lives!",
+      "path": "sounds/72_Monster_Attack.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mountain Pass",
+      "description": "A treacherous path through towering mountain peaks is the only way through",
+      "path": "sounds/64_Mountain_Pass.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mountain Tavern",
+      "description": "An oasis of warmth and hospitality in a harsh and unforgiving environment",
+      "path": "sounds/54_Mountain_Tavern.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mummy's Tomb",
+      "description": "An ancient burial chamber is uncovered after a millenium",
+      "path": "sounds/142_Mummys_Tomb.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mushroom Forest",
+      "description": "As you step into the forest, a warm euphoric glow washes over you",
+      "path": "sounds/228_Mushroom_Forest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Myconid Colony",
+      "description": "In a warm corner of the Underdark, the fungus folk dwell",
+      "path": "sounds/332_Myconid_Colony.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Mysterious Grotto",
+      "description": "A dark wind courses through this massive, natural cavern",
+      "path": "sounds/263_Mysterious_Grotto.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Nautiloid Escape",
+      "description": "An illithid ship is tearing itself apart as you and your party race to escape",
+      "path": "sounds/408_Nautiloid_Escape.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Necropolis",
+      "description": "A massive, spirit-filled city of the dead",
+      "path": "sounds/299_Necropolis.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Neon Drive",
+      "description": "Hi intensity cyberpunk action for highly modified people and cars",
+      "path": "sounds/168_Neon_Drive.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Nephilim Labs FE",
+      "description": "",
+      "path": "sounds/28_Nephilim_Labs_FE.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "New Orleans Noir",
+      "description": "Crescent City, 1920s",
+      "path": "sounds/225_New_Orleans_Noir.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Nightmare",
+      "description": "The darkness seethes and writhes about you as you gasp for air",
+      "path": "sounds/82_Nightmare.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Noir Procedural",
+      "description": "A TV inspired, urban noir backdrop for intrigue and investigation",
+      "path": "sounds/94_Noir_Procedural.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Nordic Noir",
+      "description": "Bleak landscapes, dark themes and powerful stories",
+      "path": "sounds/239_Nordic_Noir.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Nostromo",
+      "description": "While the crew prepares to emerge from hypersleep, the ship slowly awakens",
+      "path": "sounds/152_Nostromo.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Oasis City",
+      "description": "A glimmering desert city, built on the most precious commodity of all",
+      "path": "sounds/284_Oasis_City.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Open Ocean",
+      "description": "Adrift on the waves",
+      "path": "sounds/132_Open_Ocean.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Orbital Platform",
+      "description": "The massive viewports on this orbital platform allow for breathtaking views of this sectors' impressive stellar phenomena",
+      "path": "sounds/61_Orbital_Platform.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Orbital Prison Break",
+      "description": "The galaxy's worst are on the loose",
+      "path": "sounds/266_Orbital_Prison_Break.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Orbital Promenade",
+      "description": "A galactic crossroads of commerce and society",
+      "path": "sounds/111_Orbital_Promenade.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Oregon Trail",
+      "description": "Strength in numbers, wagon trains headed west for opportunity",
+      "path": "sounds/247_Oregon_Trail.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Outpost 31",
+      "description": "Antarctica, 1982",
+      "path": "sounds/155_Outpost_31.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Overland with Oxen",
+      "description": "Your party has assembled, your cart is loaded with supplies, your oxen are sturdy",
+      "path": "sounds/48_Overland_with_Oxen.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Pagan Woods",
+      "description": "Spirits exist in the trees, the rocks, and the loam",
+      "path": "sounds/418_Pagan_Woods.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Pattern Recognition",
+      "description": "Hack the system, stay in the shadows",
+      "path": "sounds/283_Pattern_Recognition.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Pirates!",
+      "description": "Romantic adventurers, or brigands of the sea",
+      "path": "sounds/241_Pirates.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Pit Fighter",
+      "description": "Welcome to Thunderdome",
+      "path": "sounds/360_Pit_Fighter.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Pool of Radiance",
+      "description": "Iridescent liquid swirls in its depths",
+      "path": "sounds/301_Pool_of_Radiance.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Promontory",
+      "description": "Nighttime on a rocky clifftop is a great place to reminisce",
+      "path": "sounds/357_Promontory.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Protean Fields",
+      "description": "A plane beyond your own, filled with darkening swirls of color and mist",
+      "path": "sounds/14_Protean_Fields.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Puzzle Dungeon",
+      "description": "A vast, mechanical, moving labyrinth",
+      "path": "sounds/349_Puzzle_Dungeon.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Quiet Cove",
+      "description": "A calm tropical inlet for ships to lay at anchor",
+      "path": "sounds/166_Quiet_Cove.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "RMS Titanic",
+      "description": "A postprandial stroll along the deck of the world's most luxurious ocean liner",
+      "path": "sounds/165_RMS_Titanic.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Rainy Village",
+      "description": "The constant rain makes the townfolk welcoming, and the inn cozier",
+      "path": "sounds/235_Rainy_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Rat Battle",
+      "description": "Not every sword is magical",
+      "path": "sounds/209_Rat_Battle.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "RavenPuff Common",
+      "description": "If you've ever been to a school for witchcraft and wizardry, you spent some time in one of these",
+      "path": "sounds/116_RavenPuff_Common.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Rebuilding",
+      "description": "A destroyed village is rebuilt by the townsfolk",
+      "path": "sounds/416_Rebuilding.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Red Planet",
+      "description": "A small group of intrepid humans establishes the first Martian colony",
+      "path": "sounds/339_Red_Planet.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Rise of the Ancients",
+      "description": "\u201cThe oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown\u201d  - H",
+      "path": "sounds/42_Rise_of_the_Ancients.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Rise of the Golem",
+      "description": "I have a giant golem, I made it out of clay",
+      "path": "sounds/375_Rise_of_the_Golem.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "River Town",
+      "description": "Your journey takes you to a small, tidy village on the bank of a river",
+      "path": "sounds/104_River_Town.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "River of Blood",
+      "description": "This great red river runs through the fractured lands",
+      "path": "sounds/364_River_of_Blood.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Robot Scrapyard",
+      "description": "Repair, recycle, rebuild, repeat",
+      "path": "sounds/317_Robot_Scrapyard.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Robotics Lab",
+      "description": "A high tech facility for cutting edge research",
+      "path": "sounds/173_Robotics_Lab.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Roc's Nest",
+      "description": "A massive mythical bird protecting her clutch",
+      "path": "sounds/366_Rocs_Nest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Rolling Emporium",
+      "description": "Pulled by a massive aurochs, this wheeled market never slows, and never stops",
+      "path": "sounds/362_Rolling_Emporium.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Rope Bridge",
+      "description": "This bridge doesn't look safe",
+      "path": "sounds/367_Rope_Bridge.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Royal Court",
+      "description": "In this highly structured setting, those who attend the monarch gather to plot and collude",
+      "path": "sounds/175_Royal_Court.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Royal Salon",
+      "description": "The Royal Salon, France, early 18th Century: a minefield of verbal sparring, whispered plots and social combat",
+      "path": "sounds/66_Royal_Salon.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Russian Winter",
+      "description": "\"People don't notice whether it's winter or summer when they're happy\" - Anton Chekhov",
+      "path": "sounds/130_Russian_Winter.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Salt Marsh",
+      "description": "Between ocean and grasslands, lies this ambiguous, liminal space",
+      "path": "sounds/223_Salt_Marsh.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Samurai HQ",
+      "description": "Wealthy Japanese feudal lords used Samurai as their private armies",
+      "path": "sounds/45_Samurai_HQ.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sand Raiders",
+      "description": "On a desert planet, far far away",
+      "path": "sounds/307_Sand_Raiders.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sanitarium",
+      "description": "A private facility on a windy bluff",
+      "path": "sounds/293_Sanitarium.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sea of Moving Ice",
+      "description": "These northern waters are treacherous and cold",
+      "path": "sounds/183_Sea_of_Moving_Ice.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Secret Facility",
+      "description": "You're awake, but remember nothing",
+      "path": "sounds/245_Secret_Facility.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Secret Garden",
+      "description": "A quiet, magical clearing in the forest",
+      "path": "sounds/153_Secret_Garden.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sewers",
+      "description": "Dank and teeming with the foul and pestilent denizens of darkness",
+      "path": "sounds/85_Sewers.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Shadowfell",
+      "description": "An unpredictable realm of depression, stasis and despair",
+      "path": "sounds/198_Shadowfell.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Shaman's Hollow",
+      "description": "A secluded spot in the forest where the magic is concentrated",
+      "path": "sounds/319_Shamans_Hollow.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Shanghai 1930s",
+      "description": "Known as 'The Paris of the East, the New York of the West'",
+      "path": "sounds/160_Shanghai_1930s.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Shelter from the Storm",
+      "description": "Admittedly, it may not be the perfect spot",
+      "path": "sounds/11_Shelter_from_the_Storm.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Ship of the Line",
+      "description": "The fastest ship in the fleet, and the best appointed",
+      "path": "sounds/411_Ship_of_the_Line.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Shopping Mall",
+      "description": "A temple to the gods of modern consumerism",
+      "path": "sounds/195_Shopping_Mall.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Shrine of Talos",
+      "description": "God of storms",
+      "path": "sounds/265_Shrine_of_Talos.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Shuttle Crash",
+      "description": "Surviving was the easy part",
+      "path": "sounds/314_Shuttle_Crash.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Skirmish",
+      "description": "Oh, it's on",
+      "path": "sounds/92_Skirmish.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Skull Island",
+      "description": "As your ship approaches, you feel like you're being watched",
+      "path": "sounds/359_Skull_Island.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Skullwharf",
+      "description": "A dangerous, underground port accessible only by sea caves and secret passages",
+      "path": "sounds/308_Skullwharf.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Skyship",
+      "description": "These magestic, flying vessels require powerful magic to create and operate",
+      "path": "sounds/260_Skyship.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sleeping Dragon",
+      "description": "Coiled and half buried on a towering mound of treasure, an ancient red dragon slumbers",
+      "path": "sounds/71_Sleeping_Dragon.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sleeping Ogre",
+      "description": "The way is clear, there's just one not-so-small problem",
+      "path": "sounds/218_Sleeping_Ogre.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Solemn Vow",
+      "description": "When death is near, and retreat is not an option",
+      "path": "sounds/4_Solemn_Vow-a.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Space Battle",
+      "description": "Epic finale to a galactic conflict",
+      "path": "sounds/215_Space_Battle.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spider's Den",
+      "description": "A massive arachnid lurks amongst the bones of its victims",
+      "path": "sounds/242_Spiders_Den.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spire: Amaranth",
+      "description": "The crystalline, frozen home of the haughty, masked, high elves that rule Spire",
+      "path": "sounds/119_Spire_Amaranth_a.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spire: Derelictus",
+      "description": "Destitute",
+      "path": "sounds/121_Spire_Derelictus.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spire: New Heaven",
+      "description": "Impossibly high burial grounds where hyenas prowl the streets, and preachers and zealots singing the praises of their gods",
+      "path": "sounds/120_Spire_New_Heaven.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spire: The Hatchery",
+      "description": "Arachnid midwives tend to clutches of unborn with ministrations of blood",
+      "path": "sounds/123_Spire_The_Hatchery.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spire: The Heart",
+      "description": "A rotting hole in reality buried at the centre of the mile-high, ancient building that is Spire",
+      "path": "sounds/118_Spire_The_Heart_a.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spire: The Ministry",
+      "description": "A secret, shadowy society devoted to the forbidden worship of a goddess",
+      "path": "sounds/122_Spire_The_Ministry.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spire: The Vermissian",
+      "description": "A massive train network where trains have never really run",
+      "path": "sounds/124_Spire_The_Vermissian.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Spirit of the Plains",
+      "description": "The great stag of the plains is seldom seen, and speaks to few mortals",
+      "path": "sounds/353_Spirit_of_the_Plains.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Stables",
+      "description": "In medieval times, horses were vital for trade, travel, and war",
+      "path": "sounds/159_Stables.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Stagecoach Heist",
+      "description": "A thrilling ride through a beautiful landscape",
+      "path": "sounds/426_Stagecoach_Heist.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Stakeout",
+      "description": "Who watches the watchmen?",
+      "path": "sounds/414_Stakeout.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Star Freighter",
+      "description": "A massive interstellar vessel used for long haul cargo runs",
+      "path": "sounds/156_Star_Freighter.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starbase Omega",
+      "description": "The promenade of this massive orbital station hums with activity",
+      "path": "sounds/340_Starbase_Omega.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starforged: Fray",
+      "description": "",
+      "path": "sounds/271_Starforged_Fray.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starforged: Planetside",
+      "description": "",
+      "path": "sounds/269_Starforged_Planetside.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starforged: Sojourn",
+      "description": "",
+      "path": "sounds/270_Starforged_Sojourn.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starforged: Space",
+      "description": "",
+      "path": "sounds/268_Starforged_Space.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starforged: Vault",
+      "description": "",
+      "path": "sounds/272_Starforged_Vault.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starship Adrift",
+      "description": "Set engines to low, hide in a nearby nebula",
+      "path": "sounds/363_Starship_Adrift.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starship Bridge",
+      "description": "The hum of engines, the vibrations of deck plates - as familiar to you as a childhood lullaby",
+      "path": "sounds/41_Starship_Bridge.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Starship Medical",
+      "description": "The combined anatomical knowledge of the known galaxy",
+      "path": "sounds/93_Starship_Medical.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Steampunk Airship",
+      "description": "Designed by the greatest watchmaker in Olde-Town, the airship \"Gulliver\" will ferry you above the fray in style!",
+      "path": "sounds/78_Steampunk_Airship.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Steampunk Station",
+      "description": "A huge central clock, and all manner of contraptions, keep the trains running on time",
+      "path": "sounds/249_Steampunk_Station.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Steel Foundry",
+      "description": "Shadows dance on soot-blackened walls",
+      "path": "sounds/403_Steel_Foundry.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Storm at Sea",
+      "description": "A terrifying squall from the east",
+      "path": "sounds/217_Storm_at_Sea.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Strangers on a Train",
+      "description": "With its lush interiors, fine dining and finer passengers, the Orient Express was the most well-appointed overland transportation available",
+      "path": "sounds/53_Strangers_on_a_Train.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Submerged",
+      "description": "Floating beneath the surface, one world disappears, another awakens",
+      "path": "sounds/253_Submerged.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Summoning",
+      "description": "A coven prepares to summon an ancient spirit",
+      "path": "sounds/303_Summoning.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sun Dappled Trail",
+      "description": "You and your party on horseback, travelling through a beautiful forest",
+      "path": "sounds/199_Sun_Dappled_Trail.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sunken Temple",
+      "description": "Lost for millenia beneath the waves, an ancient edifice holds countless mysteries",
+      "path": "sounds/139_Sunken_Temple.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Sunken Treasure",
+      "description": "In the depths, lie the bounty",
+      "path": "sounds/221_Sunken_Treasure.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Super Hero ",
+      "description": "Like a Michael Bay movie in your head",
+      "path": "sounds/50_Super_Hero.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Survivors' Bivouac",
+      "description": "A rag tag group stops to make camp, and reflect on what went wrong",
+      "path": "sounds/297_Survivors_Bivouac.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Swamp Planet",
+      "description": "An entire planet, shrouded in dense mist, and teeming with life",
+      "path": "sounds/192_Swamp_Planet.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Swamp Thing",
+      "description": "Deep within a fetid swamp, an ancient creature lurks",
+      "path": "sounds/311_Swamp_Thing.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Swamplandia",
+      "description": "Hot, humid and swarming with insects of every kind",
+      "path": "sounds/35_Swamplandia.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Tarrasque Interior",
+      "description": "A special holiday free gift! Part of a huge collaboration project",
+      "path": "sounds/194_Tarrasque_Interior.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Tavern Celebration",
+      "description": "The mead must flow",
+      "path": "sounds/342_Tavern_Celebration.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Tavern Music",
+      "description": "It's midsummer night down at the \"Adventurer's Arms\" and the bards are all here",
+      "path": "sounds/177_Tavern_Music.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Temple Garden",
+      "description": "Order and beauty exist in perfect balance here",
+      "path": "sounds/210_Temple_Garden.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Temple of Helm",
+      "description": "May Helm protect you and absolve you of your curses and afflictions",
+      "path": "sounds/136_Temple_Of_Helm.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Temple of the Eye",
+      "description": "Hooded figures gather around a gleaming eye, smoke wriggles like serpents to the ceiling",
+      "path": "sounds/39_Temple_of_the_Eye.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Terraforming",
+      "description": "It takes decades to create an atmosphere on a lifeless planet",
+      "path": "sounds/379_Terraforming.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Terror",
+      "description": "There are doors you should not open",
+      "path": "sounds/58_Terror.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Terror in the Woods",
+      "description": "It's dark, you can hear them closing in",
+      "path": "sounds/227_Terror_in_the_Woods.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Testing Chamber",
+      "description": "An empty factory floor, towering spires of self-activated machines",
+      "path": "sounds/103_Testing_Chamber.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Age of Sail",
+      "description": "Fear not the mountainous waves and perilous winds! For who among us, will journey upon the sea and not gaze, ultimately, upon himself?",
+      "path": "sounds/19_Age_of_Sail.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Age of Steam",
+      "description": "A long hiss from a massive locomotive blankets the platform in thick white mist while porters scurry about with baggage carts",
+      "path": "sounds/70_Age_of_Steam.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Ansible",
+      "description": "An ancient device for instant communication over unimaginable distances",
+      "path": "sounds/396_The_Ansible.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Attic",
+      "description": "An old house has many secrets",
+      "path": "sounds/386_The_Attic.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Bog Standard",
+      "description": "A run-of-the-mill medieval tavern",
+      "path": "sounds/131_The_Bog_Standard.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The City Above",
+      "description": "High above the city, there is peace, and possibility",
+      "path": "sounds/280_The_City_Above.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Desert Awaits",
+      "description": "The air before you distorts in the heat",
+      "path": "sounds/7_The_Desert_Awaits.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Drowned Tower",
+      "description": "An ancient tower lies forgotten in the depths, guarded by leviathans",
+      "path": "sounds/402_The_Drowned_Tower.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Feywild",
+      "description": "An echo of the Prime Material Plane, where arcane energy flows like water",
+      "path": "sounds/169_The_Feywild.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Frozen Trail",
+      "description": "A serene and snowy backdrop, against which anything can happen",
+      "path": "sounds/296_The_Frozen_Trail.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Gaping Maw",
+      "description": "Looming before you is a massive black gate, carved into the side of a mountain",
+      "path": "sounds/318_The_Gaping_Maw.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Great Lift",
+      "description": "There's only one way up - or down",
+      "path": "sounds/380_The_Great_Lift.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Hearth Inn",
+      "description": "A bookish sort of place",
+      "path": "sounds/255_The_Hearth_Inn.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Inner Core",
+      "description": "You're deep into it this time",
+      "path": "sounds/1_The_Inner_Core.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Long Rain",
+      "description": "\"It was a hard rain, a perpetual rain, a sweating and steaming rain; it was a mizzle, a downpour, a fountain",
+      "path": "sounds/40_The_Long_Rain.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Madding Crowd",
+      "description": "Crowded cities can often be comforting",
+      "path": "sounds/421_The_Madding_Crowd.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Misty Marsh",
+      "description": "A crepuscular paddle among the rushes and reeds",
+      "path": "sounds/398_The_Misty_Marsh.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Orrery",
+      "description": "A massive mechanical solar system rotates above the monks",
+      "path": "sounds/233_The_Orrery.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Sisterhood",
+      "description": "The Sisterhood's plans encompass millennia",
+      "path": "sounds/428_The_Sisterhood.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Slaughtered Ox",
+      "description": "A horn of mead, a bowl of stew and a hook to hang your 50 feet of rope,  The Slaughtered Ox has been catering to the adventuring class for eons",
+      "path": "sounds/23_The_Slaughtered_Ox.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Steppes",
+      "description": "A Mongolian flavored battle track",
+      "path": "sounds/193_The_Steppes.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Strange",
+      "description": "",
+      "path": "sounds/287_The_Strange.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Stranger",
+      "description": "Mysterious drifter, menacing outsider, or loner hero",
+      "path": "sounds/425_The_Stranger.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Underdark",
+      "description": "A vast subeterranean network of interconnected caverns",
+      "path": "sounds/170_The_Underdark.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Wild Hunt",
+      "description": "Charging through the forest on horseback",
+      "path": "sounds/282_The_Wild_Hunt.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "There be Dragons!",
+      "description": "Wiping the last of the Kobold blood from your axe, you glare in the direction of the Cleric",
+      "path": "sounds/47_There_be_Dragons.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Thieves' Guild",
+      "description": "Live in shadow",
+      "path": "sounds/211_Thieves_Guild.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Throne Room",
+      "description": "A grand chamber where a monarch granted audience, held council and received homage",
+      "path": "sounds/240_Throne_Room.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Through the Woods",
+      "description": "A horse-drawn carriage hurtles down a dark wooded lane",
+      "path": "sounds/377_Through_the_Woods.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Tinkerer's Workshop",
+      "description": "This gnomish proprieter is a wizard with metal",
+      "path": "sounds/219_Tinkerers_Workshop.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Tinkertown",
+      "description": "Machines fixing machines, fixing machines",
+      "path": "sounds/346_Tinkertown.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Tomb Guardians",
+      "description": "Two giant statues guard the secrets of the vault",
+      "path": "sounds/412_Tomb_Guardians.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Trail of Ashes",
+      "description": "From battle to battle, war marches on",
+      "path": "sounds/365_Trail_of_Ashes.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Train Job",
+      "description": "A 1960s-era heist film, starring you and your dashing friends",
+      "path": "sounds/391_Train_Job.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Training Grounds",
+      "description": "The bustling courtyard of a castle often included soldiers drilling and sparring",
+      "path": "sounds/237_Training_Grounds.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Treacherous Path",
+      "description": "\"I know a shortcut!\" - The bard, probably",
+      "path": "sounds/406_Treacherous_Path.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Trireme",
+      "description": "It's a beautiful day for a boat ride around the Greek Islands",
+      "path": "sounds/392_Trireme.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Troll Grotto",
+      "description": "Mog is an ornery troll who prefers the quiet life above the Arctic Circle",
+      "path": "sounds/369_Troll_Grotto.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "True West",
+      "description": "Sometimes having a price on your head isn't enough to keep you out of town",
+      "path": "sounds/22_True_West_a.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Uncommon Valor",
+      "description": "Bullets buzz overhead like wasps defending a hive",
+      "path": "sounds/26_Uncommon_Valor_a.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Underground Lake",
+      "description": "Deep beneath the mountain, a massive lake shimmers before you",
+      "path": "sounds/184_Underground_Lake.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Unto the Breach",
+      "description": "\"When the blast of war blows in our ears, Then imitate the action of the tiger\" - W",
+      "path": "sounds/261_Unto_the_Breach.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Vampire's Castle",
+      "description": "A sprawling gothic mansion at midnight",
+      "path": "sounds/102_Vampire_Castle.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Vampyr",
+      "description": "\"I want you to believe",
+      "path": "sounds/404_Vampyr.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Vault of Terror",
+      "description": "A collaboration with world-class adventure designer DMDave!",
+      "path": "sounds/252_Vault_of_Terror.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Victorian London",
+      "description": "London, 1851",
+      "path": "sounds/44_Victorian_London.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Victorian Slums",
+      "description": "Overcrowded, disease-ridden and poxy",
+      "path": "sounds/262_Victorian_Slums.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Viking Tavern",
+      "description": "What's better than an ale, and a warm fire after a day of pillaging?",
+      "path": "sounds/407_Viking_Tavern.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Viking Village",
+      "description": "Life in a northern town",
+      "path": "sounds/348_Viking_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Vikings",
+      "description": "\"Valhalla, I am coming",
+      "path": "sounds/244_Vikings.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Village of the Damned",
+      "description": "Something is terribly, terribly wrong here",
+      "path": "sounds/337_Village_of_the_Damned.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Volcano",
+      "description": "The mouth of hell itself, a smoldering vista of rock and lava",
+      "path": "sounds/100_Volcano.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Voyage Begins",
+      "description": "Dock workers and sailors prepare a ship for departure",
+      "path": "sounds/376_Voyage_Begins.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Wagon Ride",
+      "description": "A solemn ride to an uncertain destination",
+      "path": "sounds/290_Wagon_Ride.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Waiting Time",
+      "description": "Tick Tock, sometimes adventures need a little downtime music",
+      "path": "sounds/128_Waiting_Time.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "War Zone",
+      "description": "Incessant shelling of the city below as attack helicopters drone above",
+      "path": "sounds/144_War_Zone.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Warehouse 13",
+      "description": "An old cement factory on the outskirts of town",
+      "path": "sounds/52_Warehouse_13.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Warlock's Whisper",
+      "description": "Dark magic",
+      "path": "sounds/354_Warlocks_Whisper.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Waterkeep",
+      "description": "The fabled jeweled city of the north, a hub for trade, commerce and culture",
+      "path": "sounds/158_Waterkeep.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Waterkeep: Night",
+      "description": "Nighttime in the jewel of the north",
+      "path": "sounds/216_Waterkeep_Night.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Weirder Things",
+      "description": "An homage to an era, and a show",
+      "path": "sounds/105_Weirder_Things_2.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Weirder Things: 2",
+      "description": "The sequel, to the homage that was the first Weirder Things track",
+      "path": "sounds/129_Weirder_Things_2.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Western Watchtower",
+      "description": "A once mighty bulwark lies fallow in a time of peace",
+      "path": "sounds/384_Western_Watchtower.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Whirlpool",
+      "description": "A deadly ocean vortex threatens to devour your ship and crew",
+      "path": "sounds/371_Whirlpool.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Whispering Caverns",
+      "description": "An underground prison for tortured souls",
+      "path": "sounds/400_Whispering_Caverns.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Whiteout",
+      "description": "Up is down, down is up, and you're freezing",
+      "path": "sounds/399_Whiteout.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Wild West Saloon",
+      "description": "The rootenest, tootenest, honky tonk this side of Deadwood",
+      "path": "sounds/110_Wild_West_Saloon.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Windswept Plains",
+      "description": "A small band of horsemen bivouac under a never ending sky",
+      "path": "sounds/96_Windswept_Plains_b.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Winter Festival",
+      "description": "Holiday celebrations in a small snowy town",
+      "path": "sounds/87_Winter_Festival.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Winter Woods",
+      "description": "Cold wind, dry branches, hardy birds",
+      "path": "sounds/89_Winter_Woods.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Witch Mountain",
+      "description": "A lively and chaotic night of magic and danger",
+      "path": "sounds/212_Witch_Mountain.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Wizard's Tower",
+      "description": "Amidst bottles and books and beasts in their cage, toils a mighty magician, a wizard most sage",
+      "path": "sounds/174_Wizards_Tower.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Wolf Pens",
+      "description": "Deep underground, 3 massive, chained wolves are kept hungry",
+      "path": "sounds/250_Wolf_Pens.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Woodland Campsite",
+      "description": "Every adventurer needs downtime",
+      "path": "sounds/51_Woodland_Campsite.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Wuxia Tea House",
+      "description": "A peaceful sanctuary to contemplate the essence of the sword",
+      "path": "sounds/222_Wuxia_Tea_House.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Wuxia Village",
+      "description": "A desolate mountain town awaits a hero",
+      "path": "sounds/220_Wuxia_Village.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Xingu Nights",
+      "description": "Dense, rich and verdant, the forest floor oozes with life and decay",
+      "path": "sounds/27_Xingu_Nights.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Yuletide",
+      "description": "A cozy fireside gathering of family and friends for the holidays",
+      "path": "sounds/189_Yuletide.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Y\u014dkai Forest",
+      "description": "The veil between our world, and the spirit world, is especially thin here",
+      "path": "sounds/344_Yokai_Forest.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Zombies!",
+      "description": "A shambling mass of former humans lurches through the snow, drawn to the scent of your flesh",
+      "path": "sounds/74_Zombies!.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{% extends "template.html" %}
+{% block content %}
+<nav class="navbar fixed-top navbar-dark bg-dark px-2">
+    <form class="form-inline">
+        <input class="form-control custom-select-sm" style="width: 100px;" type="text" id="mediaInput" onkeyup="filterMusic()" placeholder="Filter...">
+        <button class="btn btn-secondary btn-sm ml-2" id="clearButton" onclick="return clearFilter()"><span class="nf nf-md-eraser"></span></button>
+        <button class="btn btn-secondary btn-sm ml-2" id="combatButton" onclick="return combatFilter()"><span class="nf nf-md-sword_cross"></span></button>
+        <button class="btn btn-secondary btn-sm ml-2" id="stopButton" style="display: none" onclick="return stopMusic()">⏯️</button>
+    </form>
+</nav>
+
+<audio loop id="mediaPlayer" style="display: hidden">
+    <source src="" type="audio/mpeg">
+</audio>
+
+{% raw %}
+<div id="audio-list" class="list-group" style="padding-top: 47px;">
+  <script id="audio-template" type="text/x-handlebars-template">
+    {{#each .}}
+      <a href="#" onclick='return playMusic("{{@key}}")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
+        <img class="mediaImage float-left mx-1" src="{{image}}" style="width: 75px; height: 50px"/>
+        <div class="pt-1 pr-1">
+          <div class="text-nowrap">
+            <b style="color: {{color}}">{{@key}}</b>
+            <span class="badge badge-dark" style="font-weight: normal;">{{type}}</span>
+          </div>
+          <span class="text-muted" style="font-size: 90%;">{{flavor}}</span>
+          <span style="display:none">{{tags}}</span>
+        </div>
+      </a>
+    {{/each}}
+  </script>
+</div>
+{% endraw %}
+
+<script src="public/js/manifest.js"></script>
+<script src="public/js/script.js"></script>
+{% endblock %}
