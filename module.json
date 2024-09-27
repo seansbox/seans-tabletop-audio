@@ -25,5 +25,6 @@
       }
     }
   ],
-  "url": "https://github.com/seansbox/seans-tabletop-audio"
+  "url": "https://github.com/seansbox/seans-tabletop-audio",
+  "description": "A FoundryVTT repackaging of some of the Creative Commons material from Tabletop Audio"
 }
