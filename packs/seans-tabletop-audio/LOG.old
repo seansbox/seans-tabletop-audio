@@ -1,5 +1,5 @@
-2024/09/27-01:32:08.161511 7a3b49228b38 Delete type=3 #1
-2024/09/27-01:56:07.481103 7a36439c7b38 Level-0 table #5: started
-2024/09/27-01:56:07.481179 7a36439c7b38 Level-0 table #5: 0 bytes OK
-2024/09/27-01:56:07.485311 7a36439c7b38 Delete type=0 #3
-2024/09/27-01:56:07.515289 7a36439c7b38 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/09/27-02:29:21.989695 7a3b48a25b38 Delete type=3 #2
+2024/09/27-02:40:14.030279 7a36439c7b38 Level-0 table #9: started
+2024/09/27-02:40:14.061383 7a36439c7b38 Level-0 table #9: 216169 bytes OK
+2024/09/27-02:40:14.064861 7a36439c7b38 Delete type=0 #7
+2024/09/27-02:40:14.068474 7a36439c7b38 Manual compaction at level-0 from '!adventures!ezzjQuE7xajxawyb' @ 72057594037927935 : 1 .. '!adventures!ezzjQuE7xajxawyb' @ 0 : 0; will stop at (end)
