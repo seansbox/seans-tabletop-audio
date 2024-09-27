@@ -1,0 +1,29 @@
+{
+  "id": "seans-tabletop-audio",
+  "title": "Sean's Tabletop Audio",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Sean Lickfold",
+      "url": "https://github.com/seansbox/",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "seans-tabletop-audio",
+      "label": "Sean's Tabletop Audio",
+      "path": "packs/seans-tabletop-audio",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/seansbox/seans-tabletop-audio"
+}
