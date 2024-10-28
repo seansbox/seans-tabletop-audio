@@ -7,8 +7,8 @@ from invoke import task
 from sync_symlink_folder import sync_symlink_folder
 from download_file import download_file, download_font
 from run_server import run_server
-from build_public import build_public
 from regex_replace import regex_replace
+from build_public import build_public
 from build_favicon import build_favicon as build_favicon
 
 import html
@@ -36,9 +36,11 @@ def build(c):
       fixfunc=lambda x: x.replace("../fonts/Symbols-2048-em Nerd Font Complete.woff2", "https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/NerdFontsSymbolsOnly/SymbolsNerdFont-Regular.ttf") )
     regex_replace(c, "../public/ttf/nerd-font/nerd-font.css", "woff2", "truetype")
 
+    build_public(c)
     build_favicon(c, "nf-seti-audio", "#FFFFFF", "#F44336")
 
     sync_symlink_folder(c, srcdir="../raw/sounds", dstdir="../sounds")
+    sync_symlink_folder(c, srcdir="../raw/images", dstdir="../images")
 
 def parse_media(htmlfile):
     media = {}
@@ -75,8 +77,8 @@ def download_images(c, media):
     for entry in media.values():
         if entry["image"]:
             filename = entry["image"].split("/")[-1].replace("%20", "-")
-            if not os.path.isfile(f"../images/{filename}"):
-              download_file(c, entry["image"], "../images", name=filename)
+            if not os.path.isfile(f"../raw/images/{filename}"):
+              download_file(c, entry["image"], "../raw/images", name=filename)
             entry["image"] = filename
 
 def download_sounds(c, media, listfile):

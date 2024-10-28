@@ -3,6 +3,3 @@ __pycache__/
 .stfolder
 .sync*
 *.log
-
-raw/*
-!raw/README.md
