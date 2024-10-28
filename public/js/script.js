@@ -19,7 +19,7 @@ function playMusic(name) {
   }
   player = document.getElementById("mediaPlayer");
   player.pause();
-  player.src = song.file;
+  player.src = 'sounds/' + song.file;
   player.play();
   document.title = "🎶" + name;
   window.location.hash = name;

@@ -1,14 +1,15 @@
 def render_audio_list(audio_list):
     html = ""
-    for entry in audio_list:
-        html += render_audio_entry(**entry)
+    for entry in audio_list.values():
+        if entry['num']:
+            html += render_audio_entry(**entry)
     return html
 
 
 def render_audio_entry(title, image, type, flavor, tags, num, file, color="#FFFFFF"):
     return f"""
     <a href="#" onclick='return playMusic("{title.replace("'", "&apos;")}")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
-        <img class="mediaImage float-left mx-1" src="{image}" style="width: 75px; height: 50px"/>
+        <img class="mediaImage float-left mx-1" src="images/{image}" style="width: 75px; height: 50px"/>
         <div class="pt-1 pr-1">
             <div class="text-nowrap">
                 <b style="color: {color}">{title}</b>
@@ -31,8 +32,8 @@ def render_html(title, audio_list):
     <meta name="application-name" content="{ title }"/>
     <title>{ title }</title>
 
-    <link rel="stylesheet" href="public/ttf/fira-sans-condensed.css">
-    <link rel="stylesheet" href="public/ttf/nerd-font.css">
+    <link rel="stylesheet" href="public/ttf/fira-sans-condensed/fira-sans-condensed.css">
+    <link rel="stylesheet" href="public/ttf/nerd-font/nerd-font.css">
     <link rel="stylesheet" href="public/css/toggle-bootstrap.min.css">
     <link rel="stylesheet" href="public/css/toggle-bootstrap-dark.min.css">
     <link rel="stylesheet" href="public/css/toggle-bootstrap-print.min.css">

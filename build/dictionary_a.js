@@ -2,7 +2,11 @@
 	//added logic that matches text inside genre filter i.e. modern, scifi, horror etc.. so not needed here.
 	//if a keyword is in the title it's not needed in the keywords object. i.e. 'mountain tavern' does not need the 'tavern' keyword.
 var dictionary = {
-    "433": ["castle","ruins","clifftop","wind","cliffs","ghosts","spirits","magic"], //Spectral Abbey
+    "437": ["sanitarium","demons","prison","underground","monsters","jail"], //Dungeon Asylum
+    "436": ["camp","bivouac","army","soldiers","woods","snow","medieval","campsite"], //Winter Encampment
+    "435": ["castle","cellar","basement","dungeon","underground","secrets","passage"], //The Undercroft
+    "434": ["spaceship","alien","aliens","isolation","stasis","space","interstellar"], //Cryo Pods
+    "433": ["castle","ruins","clifftop","wind","cliffs","ghosts","spirits","magic","monastery"], //Spectral Abbey
     "432": ["cave","cavern","dragon","boss","dungeon","action","monster"], //Lair of the Wyrm
     "431": ["1940s","1930s","Cthulhu","jazz","city","detective","mystery","spy","espionage"], //Noire Hotel
     "430": ["pagan","ritual","jungle","forest","tribal","drums","chant"], //Fire Dance
@@ -216,7 +220,7 @@ var dictionary = {
     "222": ["Asian","Chinese","China","martial arts","kung fu","rural","peaceful","village"], //Wuxia Tea House
     "221": ["underwater","water","deep","ocean","sea","depths","dive","scuba","shipwreck"], //Sunken Treasure
     "220": ["Asian","Chinese","China","martial arts","kung fu","rural","mountain","town"], //Wuxia Village
-    "219": ["gnomes","shop","machines","funny","steampunk"],//Tinkerer's Workshop
+    "219": ["gnomes","shop","machines","funny","steampunk","sneak","stealth","comedy"],//Tinkerer's Workshop
     "218": ["stealth","dungeon","quiet","tense","sneak","dark","shadows","monster"], //Sleeping Ogre
     "217": ["sailing","ship","ocean","waves","nautical","navy","sail","squall","boat"], //Storm at Sea
     "216": ["medieval","city","town","Waterdeep","society","night","quiet"], //Waterdeep: Night
