@@ -10,7 +10,7 @@ def relative_path(source, target):
 
 
 @task
-def sync_symlink_folder(c, srcdir, dstdir):
+def sync_symlinks(c, srcdir, dstdir):
     """
     Synchronize symlinks in the target directory, mirroring the folder structure of the source directory.
 

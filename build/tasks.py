@@ -4,7 +4,7 @@ import os
 
 from invoke import task
 
-from sync_symlink_folder import sync_symlink_folder
+from sync_symlinks import sync_symlinks
 from download_file import download_file, download_font
 from run_server import run_server
 from regex_replace import regex_replace
@@ -39,8 +39,8 @@ def build(c):
     build_public(c)
     build_favicon(c, "nf-seti-audio", "#FFFFFF", "#F44336")
 
-    sync_symlink_folder(c, srcdir="../raw/sounds", dstdir="../sounds")
-    sync_symlink_folder(c, srcdir="../raw/images", dstdir="../images")
+    sync_symlinks(c, srcdir="../raw/sounds", dstdir="../sounds")
+    sync_symlinks(c, srcdir="../raw/images", dstdir="../images")
 
 def parse_media(htmlfile):
     media = {}
