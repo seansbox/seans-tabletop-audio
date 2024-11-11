@@ -928,6 +928,14 @@
       "volume": 0.8
     },
     {
+      "name": "Dungeon Asylum",
+      "description": "These monsters are nuts",
+      "path": "sounds/437_Dungeon_Asylum.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
       "name": "Dungeon Collapse",
       "description": "You probably shouldn't have picked up that ancient idol",
       "path": "sounds/343_Dungeon_Collapse.mp3",
@@ -2163,6 +2171,14 @@
       "name": "Red Planet",
       "description": "A small group of intrepid humans establishes the first Martian colony",
       "path": "sounds/339_Red_Planet.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Red Sky Mine",
+      "description": "A distant planetary mine contains vital resources, or mysterious artifacts",
+      "path": "sounds/438_Red_Sky_Mine.mp3",
       "fade": 3000,
       "repeat": true,
       "volume": 0.8

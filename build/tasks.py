@@ -4,12 +4,13 @@ import os
 
 from invoke import task
 
-from sync_symlinks import sync_symlinks
-from download_file import download_file, download_font
-from run_server import run_server
-from regex_replace import regex_replace
-from build_public import build_public
-from build_favicon import build_favicon as build_favicon
+from invoke import task
+from invoke_tasks.sync_symlinks import sync_symlinks
+from invoke_tasks.delete_files import delete_files
+from invoke_tasks.download_file import download_file, download_font
+from invoke_tasks.run_webserver import run_webserver
+from invoke_tasks.replace_bulk import replace_bulk
+from invoke_tasks.draw_favicons import draw_favicons
 
 import html
 
@@ -28,19 +29,35 @@ def build(c):
     foundry_data = build_foundry_data(media)
     write_manifest(media, foundry_data)
 
-    download_font(c, "https://fonts.googleapis.com/css?family=Fira+Code:400,b,bi,i", "fira-code")
-    download_font(c, "https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400,b,bi,i", "fira-sans-condensed")
-    download_font(c, "https://fonts.googleapis.com/css?family=Noto+Emoji:400,b,bi,i", "noto-emoji")
-    download_font(c, "https://fonts.googleapis.com/css?family=Amatic+SC:400,b,bi,i", "amatic-sc")
-    download_font(c, "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/css/nerd-fonts-generated.css", "nerd-font",
-      fixfunc=lambda x: x.replace("../fonts/Symbols-2048-em Nerd Font Complete.woff2", "https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/NerdFontsSymbolsOnly/SymbolsNerdFont-Regular.ttf") )
-    regex_replace(c, "../public/ttf/nerd-font/nerd-font.css", "woff2", "truetype")
-
     build_public(c)
-    build_favicon(c, "nf-seti-audio", "#FFFFFF", "#F44336")
+    draw_favicons(c, "nf-seti-audio", "#FFFFFF", "#F44336")
 
     sync_symlinks(c, srcdir="../raw/sounds", dstdir="../sounds")
     sync_symlinks(c, srcdir="../raw/images", dstdir="../images")
+
+@task
+def build_public(c, pubdir="../public"):
+  site = "https://cdn.jsdelivr.net/npm"
+
+  download_font(c, "https://fonts.googleapis.com/css?family=Fira+Code:400,b,bi,i", "fira-code")
+  download_font(c, "https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400,b,bi,i", "fira-sans-condensed")
+  download_font(c, "https://fonts.googleapis.com/css?family=Noto+Emoji:400,b,bi,i", "noto-emoji")
+  download_font(c, "https://fonts.googleapis.com/css?family=Amatic+SC:400,b,bi,i", "amatic-sc")
+  download_font(c, "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/css/nerd-fonts-generated.css", "nerd-font",
+    fixfunc=lambda x: x.replace("../fonts/Symbols-2048-em Nerd Font Complete.woff2", "https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/NerdFontsSymbolsOnly/SymbolsNerdFont-Regular.ttf") )
+  replace_bulk(c, "../public/ttf/nerd-font/nerd-font.css", "woff2", "truetype")
+
+  download_file(c, f"{site}/@forevolve/bootstrap-dark@latest/dist/css/toggle-bootstrap.min.css", f"{pubdir}/css")
+  download_file(c, f"{site}/@forevolve/bootstrap-dark@latest/dist/css/toggle-bootstrap-dark.min.css", f"{pubdir}/css")
+  download_file(c, f"{site}/@forevolve/bootstrap-dark@latest/dist/css/toggle-bootstrap-print.min.css", f"{pubdir}/css")
+
+  download_file(c, f"{site}/@forevolve/bootstrap-dark@latest/dist/js/bootstrap.bundle.min.js", f"{pubdir}/js")
+  download_file(c, f"{site}/@forevolve/bootstrap-dark@latest/dist/js/bootstrap.bundle.min.js.map", f"{pubdir}/js")
+
+  download_file(c, f"{site}/jquery@latest/dist/jquery.min.js", f"{pubdir}/js")
+  download_file(c, f"{site}/jquery@latest/dist/jquery.min.map", f"{pubdir}/js")
+
+  download_file(c, f"{site}/handlebars@latest/dist/handlebars.min.js", f"{pubdir}/js")
 
 def parse_media(htmlfile):
     media = {}
@@ -78,7 +95,7 @@ def download_images(c, media):
         if entry["image"]:
             filename = entry["image"].split("/")[-1].replace("%20", "-")
             if not os.path.isfile(f"../raw/images/{filename}"):
-              download_file(c, entry["image"], "../raw/images", name=filename)
+                download_file(c, entry["image"], "../raw/images", name=filename)
             entry["image"] = filename
 
 def download_sounds(c, media, listfile):
@@ -90,9 +107,9 @@ def download_sounds(c, media, listfile):
             song["title"] = title if len(title) > len(song["title"]) else song["title"]
         url = "https://sounds.tabletopaudio.com/" + path
         try:
-            if not os.path.isfile(f"../sounds/{path}"):
-              print(f"Downloading ../sounds/{path}")
-              download_file(c, url, "../sounds", name=path)
+            if not os.path.isfile(f"../raw/sounds/{path}"):
+                print(f"Downloading ../raw/sounds/{path}")
+                download_file(c, url, "../raw/sounds", name=path)
         except urllib.error.HTTPError as e:
             print(f'Warning: "{song["title"]}" download failed with error: {e}')
             song["error"] = True

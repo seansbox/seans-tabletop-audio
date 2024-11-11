@@ -1874,6 +1874,21 @@ var manifest = {
     ],
     "type": "ambience + music"
   },
+  "Dungeon Asylum": {
+    "file": "437_Dungeon_Asylum.mp3",
+    "flavor": "These monsters are nuts",
+    "image": "dungeon-asylum.jpg",
+    "num": "437",
+    "tags": [
+      "sanitarium",
+      "demons",
+      "prison",
+      "underground",
+      "monsters",
+      "jail"
+    ],
+    "type": "ambience + music"
+  },
   "Dungeon Collapse": {
     "color": "#FF9999",
     "file": "343_Dungeon_Collapse.mp3",
@@ -4420,6 +4435,22 @@ var manifest = {
       "space",
       "colony",
       "Dune"
+    ],
+    "type": "ambience + music"
+  },
+  "Red Sky Mine": {
+    "file": "438_Red_Sky_Mine.mp3",
+    "flavor": "A distant planetary mine contains vital resources, or mysterious artifacts",
+    "image": "red-sky-mine.jpg",
+    "num": "438",
+    "tags": [
+      "excavation",
+      "dig",
+      "alien",
+      "aliens",
+      "mining",
+      "machinery",
+      "trucks"
     ],
     "type": "ambience + music"
   },
