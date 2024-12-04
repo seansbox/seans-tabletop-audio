@@ -1256,6 +1256,14 @@
       "volume": 0.8
     },
     {
+      "name": "Goodhaven",
+      "description": "A beautiful little town by a river",
+      "path": "sounds/439_Goodhaven.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
       "name": "Grand Theater",
       "description": "\"The play's the thing",
       "path": "sounds/259_Grand_Theater.mp3",
@@ -1747,6 +1755,14 @@
       "name": "Mansion: Night",
       "description": "Secrets are hidden in the great old house",
       "path": "sounds/224_Mansion_Night.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Map Chamber",
+      "description": "A magical room from which to view the kingdom",
+      "path": "sounds/440_Map_Chamber.mp3",
       "fade": 3000,
       "repeat": true,
       "volume": 0.8
@@ -2795,6 +2811,14 @@
       "name": "Tavern Music",
       "description": "It's midsummer night down at the \"Adventurer's Arms\" and the bards are all here",
       "path": "sounds/177_Tavern_Music.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Tech Market",
+      "description": "A place to buy, sell and repair your gadgets",
+      "path": "sounds/441_Tech_Market.mp3",
       "fade": 3000,
       "repeat": true,
       "volume": 0.8

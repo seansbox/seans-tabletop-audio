@@ -2546,6 +2546,22 @@ var manifest = {
     ],
     "type": "ambience"
   },
+  "Goodhaven": {
+    "file": "439_Goodhaven.mp3",
+    "flavor": "A beautiful little town by a river",
+    "image": "goodhaven.jpg",
+    "num": "439",
+    "tags": [
+      "town",
+      "village",
+      "river",
+      "lake",
+      "peaceful",
+      "welcome",
+      "rest"
+    ],
+    "type": "ambience + music"
+  },
   "Grand Theater": {
     "file": "259_Grand_Theater.mp3",
     "flavor": "\"The play's the thing",
@@ -3555,6 +3571,23 @@ var manifest = {
       "mysterious"
     ],
     "type": "music + ambience"
+  },
+  "Map Chamber": {
+    "file": "440_Map_Chamber.mp3",
+    "flavor": "A magical room from which to view the kingdom",
+    "image": "map-chamber.jpg",
+    "num": "440",
+    "tags": [
+      "peaceful",
+      "Greek",
+      "Roman",
+      "water",
+      "pool",
+      "magic",
+      "magical",
+      "desert"
+    ],
+    "type": "ambience + music"
   },
   "March of the Faithful": {
     "file": "3_The_March_of_the_Faithful.mp3",
@@ -5710,6 +5743,22 @@ var manifest = {
       "tavern"
     ],
     "type": "music"
+  },
+  "Tech Market": {
+    "file": "441_Tech_Market.mp3",
+    "flavor": "A place to buy, sell and repair your gadgets",
+    "image": "tech-market.jpg",
+    "num": "441",
+    "tags": [
+      "cyberpunk",
+      "urban",
+      "city",
+      "noire",
+      "night",
+      "vendors",
+      "technology"
+    ],
+    "type": "ambience + music"
   },
   "Temple Garden": {
     "file": "210_Temple_Garden.mp3",
