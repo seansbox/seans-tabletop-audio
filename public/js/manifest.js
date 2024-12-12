@@ -65,7 +65,7 @@ var manifest = {
       "synthesizer",
       "tension",
       "technology",
-      "laborotory",
+      "laboratory",
       "science"
     ],
     "type": "ambience + minimal music"
@@ -209,7 +209,7 @@ var manifest = {
     "tags": [
       "spells",
       "potions",
-      "laborotory",
+      "laboratory",
       "bubbling",
       "magic",
       "Alchemists"
@@ -440,7 +440,7 @@ var manifest = {
       "artificial",
       "automaton",
       "computers",
-      "laborotory",
+      "laboratory",
       "cyberpunk"
     ],
     "type": "ambience + music"
@@ -1434,6 +1434,22 @@ var manifest = {
       "vampire"
     ],
     "type": "ambience"
+  },
+  "Darkmoor": {
+    "file": "442_Darkmoor.mp3",
+    "flavor": "\"Keep off the moors",
+    "image": "darkmoor.jpg",
+    "num": "442",
+    "tags": [
+      "werewolf",
+      "monster",
+      "woods",
+      "moors",
+      "night",
+      "country",
+      "action"
+    ],
+    "type": "ambience + music"
   },
   "Deep Space EVA": {
     "file": "25_Deep_Space_EVA.mp3",
@@ -4303,6 +4319,22 @@ var manifest = {
     ],
     "type": "ambience + music"
   },
+  "Primate Lab": {
+    "file": "443_Primate_Lab.mp3",
+    "flavor": "The monkeys know something",
+    "image": "primate-lab.jpg",
+    "num": "443",
+    "tags": [
+      "science",
+      "laboratory",
+      "animals",
+      "experiments",
+      "monkeys",
+      "apes",
+      "cages"
+    ],
+    "type": "ambience + music"
+  },
   "Promontory": {
     "file": "357_Promontory.mp3",
     "flavor": "Nighttime on a rocky clifftop is a great place to reminisce",
@@ -4578,7 +4610,7 @@ var manifest = {
       "spaceship",
       "spacestation",
       "facility",
-      "labrotory",
+      "laboratory",
       "robots"
     ],
     "type": "ambience + minimal music"

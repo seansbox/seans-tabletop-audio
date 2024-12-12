@@ -712,6 +712,14 @@
       "volume": 0.8
     },
     {
+      "name": "Darkmoor",
+      "description": "\"Keep off the moors",
+      "path": "sounds/442_Darkmoor.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
       "name": "Deep Space EVA",
       "description": "The deal was simple: 4 years working on a deep space mining operation and you could return to earth a free man",
       "path": "sounds/25_Deep_Space_EVA.mp3",
@@ -2107,6 +2115,14 @@
       "name": "Pool of Radiance",
       "description": "Iridescent liquid swirls in its depths",
       "path": "sounds/301_Pool_of_Radiance.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "Primate Lab",
+      "description": "The monkeys know something",
+      "path": "sounds/443_Primate_Lab.mp3",
       "fade": 3000,
       "repeat": true,
       "volume": 0.8

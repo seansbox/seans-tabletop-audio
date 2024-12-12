@@ -2,6 +2,8 @@
 	//added logic that matches text inside genre filter i.e. modern, scifi, horror etc.. so not needed here.
 	//if a keyword is in the title it's not needed in the keywords object. i.e. 'mountain tavern' does not need the 'tavern' keyword.
 var dictionary = {
+    "444": ["city","Neverwinter","Baldur's Gate","fireworks","celebration","Christmas","festival"], //Yuletide Cantrips
+    "443": ["science","laboratory","animals","experiments","monkeys","apes","cages"], //Primate Lab
     "442": ["werewolf","monster","woods","moors","night","country","action"], //Darkmoor
     "441": ["cyberpunk","urban","city","noire","night","vendors","technology"], //Tech Market
     "440": ["peaceful","Greek","Roman","water","pool","magic","magical","desert"], //Map Chamber
@@ -74,7 +76,7 @@ var dictionary = {
     "373": ["mechanical","mechanism","steampunk","clockwork","steam","gears","engines"],//Infernal Machine
     "372": ["tavern","bar","pub","brothel","inn","alehouse"], //Den of Iniquity
     "371": ["shipwreck","ship","ocean","sea","waves","Poseidon","action","sail","sailing"], //Whirlpool
-    "370": ["robot","android","artificial","automaton","computers","laborotory","cyberpunk"], //Awakenings
+    "370": ["robot","android","artificial","automaton","computers","laboratory","cyberpunk"], //Awakenings
     "369": ["cave","monster","tribal","tense","giant","Scandinavian","Norse","Nordic"], //Troll Grotto
     "368": ["hut","shack","spirits","country","cottage","abandoned","forest","winter","cabin","house"], //Ghosts of Appalachia
     "367": ["jungle","clifftop","cliff","danger","suspense","swing bridge"], //Rope Bridge
@@ -218,7 +220,7 @@ var dictionary = {
     "229": ["cyberpunk","police","tension","tense","action","tv","sneak","dark","stealth"], //Interrogation Room
     "228": ["ethereal","psychedelic","trippy","peaceful","calm","quiet"], //Mushroom Forest
     "227": ["lovecraft","action","chase","tension","monsters","battle","combat"], //Terror in the Woods
-    "226": ["1950s","1960s","synthesizer","tension","technology","laborotory","science"], //60s Computer Lab
+    "226": ["1950s","1960s","synthesizer","tension","technology","laboratory","science"], //60s Computer Lab
     "225": ["1920s","1930s","gothic","cthulhu","urban","city","mystery"], //New Orleans Noir
     "224": ["stealth","search","house","sneak","dark","shadows","mysterious"], //Mansion: Night
     "223": ["ocean","sea","water","Saltmarsh","peaceful","breeze","birds","reeds"], //Salt Marsh
@@ -271,7 +273,7 @@ var dictionary = {
     "176": ["desert","steppes","lonely","solitude","wind","tundra","plains","arctic","alien","planet"], //Barren Wastes
     "175": ["king","queen","royalty","palace","monarch","prince","medieval","imperial"], //Royal Court
     "174": ["magic","heroic","drama","action","magical"], // Wizard's Tower
-    "173": ["technolgy","hi-tech","spaceship","spacestation","facility","labrotory","robots"], //Robotics Lab
+    "173": ["technolgy","hi-tech","spaceship","spacestation","facility","laboratory","robots"], //Robotics Lab
     "172": ["dungeon","prison","cell","torture","dark","dank","dripping"], //Castle Jail
     "171": ["battle","drama","action","fight","clash","medieval","epic","heroic","combat"], //Cry Havoc
     "170": ["dungeon","underground","dark","drow","mysterious","dangerous"], //The Underdark
@@ -368,7 +370,7 @@ var dictionary = {
     "79" : ["army","armies","horses","weapons","soldiers","fight","clash","combat"],//Medieval Battle
     "78" : ["blimp","dirigible","victorian","jules verne", "Kings of Air and Steam"],//Steampunk Airship
     "77" : ["apocalypse","post-apocalyptic","desolate","eerie","amusement park","dystopia"],//Abandoned Fair
-    "76" : ["spells","potions","laborotory","bubbling","magic","Alchemists"],//Alchemist's Lab
+    "76" : ["spells","potions","laboratory","bubbling","magic","Alchemists"],//Alchemist's Lab
     "75" : ["boats","harbor","shady","water","sea","ships","Le Havre","Francis Drake"],//Docks District
     "74" : ["walking dead","undead","halloween","brains","flesh","monster","Dead of Winter","Zombicide","T.I.M.E. Stories","Time Stories"],//Zombies!
     "73" : ["books","quills","scholars","study","peaceful","quiet","pages","arcane"],//Medieval Library
