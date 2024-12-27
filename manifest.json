@@ -3536,6 +3536,14 @@
       "volume": 0.8
     },
     {
+      "name": "Yuletide Cantrips",
+      "description": "The mages have put aside their differences to perform during the winter festival",
+      "path": "sounds/444_Yuletide_Cantrips.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
       "name": "Y\u014dkai Forest",
       "description": "The veil between our world, and the spirit world, is especially thin here",
       "path": "sounds/344_Yokai_Forest.mp3",

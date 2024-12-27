@@ -2,6 +2,7 @@
 	//added logic that matches text inside genre filter i.e. modern, scifi, horror etc.. so not needed here.
 	//if a keyword is in the title it's not needed in the keywords object. i.e. 'mountain tavern' does not need the 'tavern' keyword.
 var dictionary = {
+    "445": ["cave","cavern","grotto","lava","boss","underground"], //Lava King's Lair
     "444": ["city","Neverwinter","Baldur's Gate","fireworks","celebration","Christmas","festival"], //Yuletide Cantrips
     "443": ["science","laboratory","animals","experiments","monkeys","apes","cages"], //Primate Lab
     "442": ["werewolf","monster","woods","moors","night","country","action"], //Darkmoor

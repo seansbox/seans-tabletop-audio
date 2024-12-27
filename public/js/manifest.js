@@ -7234,6 +7234,22 @@ var manifest = {
     ],
     "type": "music + ambience"
   },
+  "Yuletide Cantrips": {
+    "file": "444_Yuletide_Cantrips.mp3",
+    "flavor": "The mages have put aside their differences to perform during the winter festival",
+    "image": "yuletide-cantrips.jpg",
+    "num": "444",
+    "tags": [
+      "city",
+      "Neverwinter",
+      "Baldur's Gate",
+      "fireworks",
+      "celebration",
+      "Christmas",
+      "festival"
+    ],
+    "type": "ambience + music"
+  },
   "Y\u014dkai Forest": {
     "file": "344_Yokai_Forest.mp3",
     "flavor": "The veil between our world, and the spirit world, is especially thin here",

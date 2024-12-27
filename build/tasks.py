@@ -4,7 +4,6 @@ import os
 
 from invoke import task
 
-from invoke import task
 from invoke_tasks.sync_symlinks import sync_symlinks
 from invoke_tasks.delete_files import delete_files
 from invoke_tasks.download_file import download_file, download_font
@@ -12,7 +11,10 @@ from invoke_tasks.run_webserver import run_webserver
 from invoke_tasks.replace_bulk import replace_bulk
 from invoke_tasks.draw_favicons import draw_favicons
 
-import html
+import template
+
+SOUNDS_DIR = "./sounds" # was ../raw/sounds
+IMAGES_DIR = "./images" # was ../raw/images
 
 def read(file): return open(file, "r", encoding="utf-8").read()
 
@@ -32,8 +34,8 @@ def build(c):
     build_public(c)
     draw_favicons(c, "nf-seti-audio", "#FFFFFF", "#F44336")
 
-    sync_symlinks(c, srcdir="../raw/sounds", dstdir="../sounds")
-    sync_symlinks(c, srcdir="../raw/images", dstdir="../images")
+    sync_symlinks(c, srcdir=SOUNDS_DIR, dstdir="../sounds")
+    sync_symlinks(c, srcdir=IMAGES_DIR, dstdir="../images")
 
 @task
 def build_public(c, pubdir="../public"):
@@ -94,8 +96,9 @@ def download_images(c, media):
     for entry in media.values():
         if entry["image"]:
             filename = entry["image"].split("/")[-1].replace("%20", "-")
-            if not os.path.isfile(f"../raw/images/{filename}"):
-                download_file(c, entry["image"], "../raw/images", name=filename)
+            if not os.path.isfile(f"{IMAGES_DIR}/{filename}"):
+                print(f"Downloading image {entry['image']}...")
+                download_file(c, entry["image"], IMAGES_DIR, name=filename)
             entry["image"] = filename
 
 def download_sounds(c, media, listfile):
@@ -107,9 +110,9 @@ def download_sounds(c, media, listfile):
             song["title"] = title if len(title) > len(song["title"]) else song["title"]
         url = "https://sounds.tabletopaudio.com/" + path
         try:
-            if not os.path.isfile(f"../raw/sounds/{path}"):
-                print(f"Downloading ../raw/sounds/{path}")
-                download_file(c, url, "../raw/sounds", name=path)
+            if not os.path.isfile(f"{SOUNDS_DIR}/{path}"):
+                print(f"Downloading sound {url}...")
+                download_file(c, url, SOUNDS_DIR, name=path)
         except urllib.error.HTTPError as e:
             print(f'Warning: "{song["title"]}" download failed with error: {e}')
             song["error"] = True
@@ -151,7 +154,7 @@ def build_foundry_data(media):
 def write_manifest(media, foundry_data):
     # Write HTML index
     with open("../index.html", "w", encoding="utf-8") as f:
-        f.write(html.render_html("Tabletop Audio", media))
+        f.write(template.render_html("Tabletop Audio", media))
 
     # Write manifest files
     manifest_data = {entry["title"]: entry for entry in media.values() if "error" not in entry}
