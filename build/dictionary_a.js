@@ -2,6 +2,7 @@
 	//added logic that matches text inside genre filter i.e. modern, scifi, horror etc.. so not needed here.
 	//if a keyword is in the title it's not needed in the keywords object. i.e. 'mountain tavern' does not need the 'tavern' keyword.
 var dictionary = {
+    "446": ["tavern","inn","downtime","peaceful","rest","fireplace"], //Between Adventures
     "445": ["cave","cavern","grotto","lava","boss","underground"], //Lava King's Lair
     "444": ["city","Neverwinter","Baldur's Gate","fireworks","celebration","Christmas","festival"], //Yuletide Cantrips
     "443": ["science","laboratory","animals","experiments","monkeys","apes","cages"], //Primate Lab
@@ -339,7 +340,7 @@ var dictionary = {
 	"111": ["space station","star trek","star wars","future","commerce","shopping","mall","crowds"], //Orbital Promenade
 	"110": ["west","western","ragtime","music","inn","tavern","Deadlands","food","drink"], //Wild West Saloon
 	"109": ["aircraft","airplane","cabin","white noise"], //747 Interior
-	"108": ["fairground","fair","rides"], //Carnival
+	"108": ["fairground","fair","rides","circus"], //Carnival
 	"107": ["west","western","horses","dusty","Deadlands","cowboys"], //Lonesome West
 	"106": ["suspense","abandoned","machines","industrial","alien"], //Lunar Outpost
 	"105": ["80s","synth","tv","television"], //Weirder Things

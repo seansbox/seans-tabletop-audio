@@ -1648,6 +1648,14 @@
       "volume": 0.8
     },
     {
+      "name": "Lava King's Lair",
+      "description": "You're toast",
+      "path": "sounds/445_Lava_Kings_Lair.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
       "name": "Lively Cafe",
       "description": "A cornerstone of 21st century culture, the humble coffee shop",
       "path": "sounds/88_Lively_Cafe.mp3",

@@ -870,7 +870,8 @@ var manifest = {
     "tags": [
       "fairground",
       "fair",
-      "rides"
+      "rides",
+      "circus"
     ],
     "type": "ambience"
   },
@@ -3342,6 +3343,21 @@ var manifest = {
       "gantry",
       "exploration",
       "Star Trek"
+    ],
+    "type": "ambience + music"
+  },
+  "Lava King's Lair": {
+    "file": "445_Lava_Kings_Lair.mp3",
+    "flavor": "You're toast",
+    "image": "lava-kings-lair.jpg",
+    "num": "445",
+    "tags": [
+      "cave",
+      "cavern",
+      "grotto",
+      "lava",
+      "boss",
+      "underground"
     ],
     "type": "ambience + music"
   },
