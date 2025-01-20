@@ -596,6 +596,22 @@ var manifest = {
     ],
     "type": "ambience + music"
   },
+  "Between Adventures": {
+    "file": "446_Between_Adventures.mp3",
+    "flavor": "\"The waiting is the hardest part\" - Tom Petty",
+    "image": "between-adventures.jpg",
+    "num": "446",
+    "tags": [
+      "tavern",
+      "inn",
+      "downtime",
+      "peaceful",
+      "rest",
+      "fireplace",
+      "hearth"
+    ],
+    "type": "ambience + music"
+  },
   "Biodome": {
     "file": "207_Biodome.mp3",
     "flavor": "A controlled, self-sufficient eco-system",
@@ -774,7 +790,8 @@ var manifest = {
       "spaceship",
       "action",
       "nostromo",
-      "xenomorph"
+      "xenomorph",
+      "space station"
     ],
     "type": "ambience + music"
   },
@@ -822,7 +839,8 @@ var manifest = {
       "alien",
       "outpost",
       "spacestation",
-      "Among the Stars"
+      "Among the Stars",
+      "space station"
     ],
     "type": "ambience, + minimal music"
   },
@@ -1787,7 +1805,8 @@ var manifest = {
       "cargo",
       "rendezvous",
       "port",
-      "starship"
+      "starship",
+      "space station"
     ],
     "type": "ambience + music"
   },
@@ -3097,7 +3116,8 @@ var manifest = {
       "Stormtroopers",
       "Empire",
       "spacestation",
-      "chase"
+      "chase",
+      "space station"
     ],
     "type": "ambience + music"
   },
@@ -3342,7 +3362,8 @@ var manifest = {
       "rocket",
       "gantry",
       "exploration",
-      "Star Trek"
+      "Star Trek",
+      "space station"
     ],
     "type": "ambience + music"
   },
@@ -3357,7 +3378,9 @@ var manifest = {
       "grotto",
       "lava",
       "boss",
-      "underground"
+      "underground",
+      "fire",
+      "magma"
     ],
     "type": "ambience + music"
   },
@@ -4627,7 +4650,8 @@ var manifest = {
       "spacestation",
       "facility",
       "laboratory",
-      "robots"
+      "robots",
+      "space station"
     ],
     "type": "ambience + minimal music"
   },
@@ -5381,7 +5405,8 @@ var manifest = {
       "spacestation",
       "spaceship",
       "interstellar",
-      "outpost"
+      "outpost",
+      "space station"
     ],
     "type": "ambience + music"
   },
@@ -6188,6 +6213,21 @@ var manifest = {
       "reeds",
       "boat",
       "wetlands"
+    ],
+    "type": "ambience + music"
+  },
+  "The Murky Depths": {
+    "file": "447_The_Murky_Depths.mp3",
+    "flavor": "An underground biome teeming with life",
+    "image": "the-murky-depths.jpg",
+    "num": "447",
+    "tags": [
+      "underground",
+      "underdark",
+      "cavern",
+      "jungle",
+      "forest",
+      "verdant"
     ],
     "type": "ambience + music"
   },

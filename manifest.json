@@ -304,6 +304,14 @@
       "volume": 0.8
     },
     {
+      "name": "Between Adventures",
+      "description": "\"The waiting is the hardest part\" - Tom Petty",
+      "path": "sounds/446_Between_Adventures.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
       "name": "Biodome",
       "description": "A controlled, self-sufficient eco-system",
       "path": "sounds/207_Biodome.mp3",
@@ -3035,6 +3043,14 @@
       "name": "The Misty Marsh",
       "description": "A crepuscular paddle among the rushes and reeds",
       "path": "sounds/398_The_Misty_Marsh.mp3",
+      "fade": 3000,
+      "repeat": true,
+      "volume": 0.8
+    },
+    {
+      "name": "The Murky Depths",
+      "description": "An underground biome teeming with life",
+      "path": "sounds/447_The_Murky_Depths.mp3",
       "fade": 3000,
       "repeat": true,
       "volume": 0.8

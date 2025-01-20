@@ -24,7 +24,7 @@ docker build -t dockbuilder - <<EOF
 FROM python:3-alpine
 ENV PYTHONUNBUFFERED=1 LANG=C.UTF-8
 RUN apk add --no-cache bash curl make nano nodejs npm p7zip su-exec wget \
-    && pip install --no-cache-dir --upgrade pip pipenv && npm update -g npm
+    && pip install --no-cache-dir --upgrade pip pipenv invoke && npm update -g npm
 WORKDIR /app/build
 EOF
 

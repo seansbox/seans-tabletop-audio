@@ -47,6 +47,28 @@
     <div id="audio-list" class="list-group" style="padding-top: 47px;">
         <script id="audio-template" type="text/x-handlebars-template">
             
+    <a href="#" onclick='return playMusic("The Murky Depths")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
+        <img class="mediaImage float-left mx-1" src="images/the-murky-depths.jpg" style="width: 75px; height: 50px"/>
+        <div class="pt-1 pr-1">
+            <div class="text-nowrap">
+                <b style="color: #FFFFFF">The Murky Depths</b>
+                <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
+            </div>
+            <span class="text-muted" style="font-size: 90%;">An underground biome teeming with life</span>
+            <span style="display:none">underground, underdark, cavern, jungle, forest, verdant</span>
+        </div>
+    </a>
+    <a href="#" onclick='return playMusic("Between Adventures")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
+        <img class="mediaImage float-left mx-1" src="images/between-adventures.jpg" style="width: 75px; height: 50px"/>
+        <div class="pt-1 pr-1">
+            <div class="text-nowrap">
+                <b style="color: #FFFFFF">Between Adventures</b>
+                <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
+            </div>
+            <span class="text-muted" style="font-size: 90%;">"The waiting is the hardest part" - Tom Petty</span>
+            <span style="display:none">tavern, inn, downtime, peaceful, rest, fireplace, hearth</span>
+        </div>
+    </a>
     <a href="#" onclick='return playMusic("Lava King&apos;s Lair")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
         <img class="mediaImage float-left mx-1" src="images/lava-kings-lair.jpg" style="width: 75px; height: 50px"/>
         <div class="pt-1 pr-1">
@@ -55,7 +77,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">You're toast</span>
-            <span style="display:none">cave, cavern, grotto, lava, boss, underground</span>
+            <span style="display:none">cave, cavern, grotto, lava, boss, underground, fire, magma</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("Yuletide Cantrips")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
@@ -231,7 +253,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">Imperial forces are closing in</span>
-            <span style="display:none">Star Wars, Deathstar, Stormtroopers, Empire, spacestation, chase</span>
+            <span style="display:none">Star Wars, Deathstar, Stormtroopers, Empire, spacestation, chase, space station</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("The Sisterhood")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
@@ -253,7 +275,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">"Is this going to be a standup fight sir, or just another bug hunt?" -Lt</span>
-            <span style="display:none">alien, aliens, spacestation, spaceship, action, nostromo, xenomorph</span>
+            <span style="display:none">alien, aliens, spacestation, spaceship, action, nostromo, xenomorph, space station</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("Stagecoach Heist")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
@@ -451,7 +473,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">A veteran freighter captain coerces her ancient ship into port</span>
-            <span style="display:none">space, spaceship, spacestation, freight, cargo, rendezvous, port, starship</span>
+            <span style="display:none">space, spaceship, spacestation, freight, cargo, rendezvous, port, starship, space station</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("Nautiloid Escape")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
@@ -605,7 +627,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">A community gathers to watch a historic launch</span>
-            <span style="display:none">cyberpunk, spacehip, spacestation, space, rocket, gantry, exploration, Star Trek</span>
+            <span style="display:none">cyberpunk, spacehip, spacestation, space, rocket, gantry, exploration, Star Trek, space station</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("Demon Army")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
@@ -1210,7 +1232,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience + music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">The promenade of this massive orbital station hums with activity</span>
-            <span style="display:none">space, spacestation, spaceship, interstellar, outpost</span>
+            <span style="display:none">space, spacestation, spaceship, interstellar, outpost, space station</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("Red Planet")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
@@ -3047,7 +3069,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience + minimal music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">A high tech facility for cutting edge research</span>
-            <span style="display:none">technolgy, hi-tech, spaceship, spacestation, facility, laboratory, robots</span>
+            <span style="display:none">technolgy, hi-tech, spaceship, spacestation, facility, laboratory, robots, space station</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("Castle Jail")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">
@@ -4785,7 +4807,7 @@
                 <span class="badge badge-dark" style="font-weight: normal;">ambience, + minimal music</span>
             </div>
             <span class="text-muted" style="font-size: 90%;">The gleaming heart of any worthwhile planet</span>
-            <span style="display:none">spaceship, travel, alien, outpost, spacestation, Among the Stars</span>
+            <span style="display:none">spaceship, travel, alien, outpost, spacestation, Among the Stars, space station</span>
         </div>
     </a>
     <a href="#" onclick='return playMusic("Solemn Vow")' class="list-group-item list-group-item-action p-0" style="line-height: 97%; font-size: 85%; overflow: hidden; height: 50px">

@@ -2,8 +2,10 @@
 	//added logic that matches text inside genre filter i.e. modern, scifi, horror etc.. so not needed here.
 	//if a keyword is in the title it's not needed in the keywords object. i.e. 'mountain tavern' does not need the 'tavern' keyword.
 var dictionary = {
-    "446": ["tavern","inn","downtime","peaceful","rest","fireplace"], //Between Adventures
-    "445": ["cave","cavern","grotto","lava","boss","underground"], //Lava King's Lair
+    "448": ["soldiers","military","space station","spacestation","facility","guards","gate"], //Checkpoint Omega
+    "447": ["underground","underdark","cavern","jungle","forest","verdant"], //The Murky Depths
+    "446": ["tavern","inn","downtime","peaceful","rest","fireplace","hearth"], //Between Adventures
+    "445": ["cave","cavern","grotto","lava","boss","underground","fire","magma"], //Lava King's Lair
     "444": ["city","Neverwinter","Baldur's Gate","fireworks","celebration","Christmas","festival"], //Yuletide Cantrips
     "443": ["science","laboratory","animals","experiments","monkeys","apes","cages"], //Primate Lab
     "442": ["werewolf","monster","woods","moors","night","country","action"], //Darkmoor
@@ -19,9 +21,9 @@ var dictionary = {
     "432": ["cave","cavern","dragon","boss","dungeon","action","monster"], //Lair of the Wyrm
     "431": ["1940s","1930s","Cthulhu","jazz","city","detective","mystery","spy","espionage"], //Noire Hotel
     "430": ["pagan","ritual","jungle","forest","tribal","drums","chant"], //Fire Dance
-    "429": ["Star Wars","Deathstar","Stormtroopers","Empire","spacestation","chase"], //Imperial Pursuit
+    "429": ["Star Wars","Deathstar","Stormtroopers","Empire","spacestation","chase","space station"], //Imperial Pursuit
     "428": ["Dune","Arrakis","Bene Geserit","Chapterhouse","coven","temple","prayer"], //The Sisterhood
-    "427": ["alien","aliens","spacestation","spaceship","action","nostromo","xenomorph"], //Bug Hunt
+    "427": ["alien","aliens","spacestation","spaceship","action","nostromo","xenomorph","space station"], //Bug Hunt
     "426": ["west","American","cowboys","horses","action","chase","Deadlands","gunfire","battle"],//Stagecoach Heist
     "425": ["west","American","cowboys","horses","Deadlands","dark","haunted","mysterious"], //The Stranger
     "424": ["west","American","cowboys","village","horses","outpost","western","Deadlands"], //Frontier Town
@@ -39,7 +41,7 @@ var dictionary = {
     "412": ["statues","crypt","cave","cavern","underground","automaton","monster"], //Tomb Guardians
     "411": ["ocean","sea","waves","sailing","sailboat","wind","nautical","navy","naval"], //Ship of the Line
     "410": ["woods","dark","magic","magical","spooky","druids","exploration"], //Forgotten Forest
-    "409": ["space","spaceship","spacestation","freight","cargo","rendezvous","port","starship"], //Docking Procedure
+    "409": ["space","spaceship","spacestation","freight","cargo","rendezvous","port","starship","space station"], //Docking Procedure
     "408": ["Mind Flayers","ilithid","elder brain","action","suspense","crash","shipwreck"], //Nautiloid Escape
     "407": ["inn", "bar","pub","alehouse","warm","fireplace","longhouse","tavern"], //Viking Tavern
     "406": ["danger","road","lava","fire","hell","mordor","demons","underworld","bridge"], //Treacherous Path
@@ -53,7 +55,7 @@ var dictionary = {
     "398": ["ocean","sea","water","Saltmarsh","peaceful","breeze","birds","reeds","boat","wetlands"], //The Misty Marsh
     "397": ["medieval","festival","city","town","celebration","uplifting","heroic","vicotory","fanfare"], //Homecoming
     "396": ["artifact","ruins","ancient","mountain","beacon","communication","ultrawave"], //The Ansible
-    "395": ["cyberpunk","spacehip","spacestation","space","rocket","gantry","exploration","Star Trek"], //Launch Day
+    "395": ["cyberpunk","spacehip","spacestation","space","rocket","gantry","exploration","Star Trek","space station"], //Launch Day
     "394": ["battle","action","war","underworld","devil","fight","blood wars","lava","fire"], //Demon Army
     "393": ["cyberpunk","street","night","dogs","gritty","urban","desolate"], //Hellhound Alley
     "392": ["ocean","sea","waves","boat","ship","sailing","greece","greek","islands","sparta"], //Trireme
@@ -108,7 +110,7 @@ var dictionary = {
     "343": ["action","battle","combat","chase","church","temple","ruins","destruction"], // Dungeon Collapse
     "342": ["inn","festival","dance","party","action","tavern","happy"], //Tavern Celebration
     "341": ["city","village","slum","ghetto","victorian","flea bottom","street"], //Beggar's Rest
-    "340": ["space","spacestation","spaceship","interstellar","outpost"], //Starbase Omega
+    "340": ["space","spacestation","spaceship","interstellar","outpost","space station"], //Starbase Omega
     "339": ["mars","desert","wind","sand","habitat","space","colony","Dune"], //Red Planet
     "338": ["shop","store","merchant","general store","goods","supplies"], //Adventure Supply
     "337": ["scary","storm","rain","creepy","halloween","barovia","gothic","town","supernatural"], //Village of the Damned
@@ -275,7 +277,7 @@ var dictionary = {
     "176": ["desert","steppes","lonely","solitude","wind","tundra","plains","arctic","alien","planet"], //Barren Wastes
     "175": ["king","queen","royalty","palace","monarch","prince","medieval","imperial"], //Royal Court
     "174": ["magic","heroic","drama","action","magical"], // Wizard's Tower
-    "173": ["technolgy","hi-tech","spaceship","spacestation","facility","laboratory","robots"], //Robotics Lab
+    "173": ["technolgy","hi-tech","spaceship","spacestation","facility","laboratory","robots","space station"], //Robotics Lab
     "172": ["dungeon","prison","cell","torture","dark","dank","dripping"], //Castle Jail
     "171": ["battle","drama","action","fight","clash","medieval","epic","heroic","combat"], //Cry Havoc
     "170": ["dungeon","underground","dark","drow","mysterious","dangerous"], //The Underdark
@@ -432,7 +434,7 @@ var dictionary = {
     "19" : ["ships","ocean","navy","naval","wind","waves","seven seas","50 fathoms"],//Age of Sail
     "18" : ["lovecraft","betrayal","creepy","haunted","abandoned","ghosts","Betrayal at House on the Hill","vampire"],//House on the hill
     "17" : ["cantina","bar","music","scum","underworld","star wars", "City of Remnants"],//Alien Night Club
-    "16" : ["spaceship","travel","alien","outpost","spacestation","Among the Stars"],//Busy Space Port
+    "16" : ["spaceship","travel","alien","outpost","spacestation","Among the Stars","space station"],//Busy Space Port
     "15" : ["spaceship","repair","mechanic"],//Alien Machine Shop
     "14" : ["suspense","ethereal","astral","drone"],//Protean Fields
     "13" : ["dripping","bats","underground","wind","dungeon","music","suspense"],//Cave of Time
