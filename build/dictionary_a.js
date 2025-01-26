@@ -2,7 +2,8 @@
 	//added logic that matches text inside genre filter i.e. modern, scifi, horror etc.. so not needed here.
 	//if a keyword is in the title it's not needed in the keywords object. i.e. 'mountain tavern' does not need the 'tavern' keyword.
 var dictionary = {
-    "448": ["soldiers","military","space station","spacestation","facility","guards","gate"], //Checkpoint Omega
+    "449": ["medieval","procession","festival","parade","city","Neverwinter","Baldur's Gate","celebration"], //A Royal Visit
+    "448": ["soldiers","military","space station","spacestation","facility","guards","gate","security"], //Checkpoint Omega
     "447": ["underground","underdark","cavern","jungle","forest","verdant"], //The Murky Depths
     "446": ["tavern","inn","downtime","peaceful","rest","fireplace","hearth"], //Between Adventures
     "445": ["cave","cavern","grotto","lava","boss","underground","fire","magma"], //Lava King's Lair
